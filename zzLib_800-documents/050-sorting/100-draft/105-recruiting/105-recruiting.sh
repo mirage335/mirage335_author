@@ -321,43 +321,58 @@ _t 'Minor bugfix regarding BIND request (external subscription) support. See dmf
 
 _page ' ' ###
 _heading2 'Tools'
-_t '_PatchRap_
+_t '(notable)'
 
-Instant "PatchPanel" combining a breadboards with a generic PCB. Adapts logic, sensors, actuators, and data networks to inexpensive, highly shielded long haul Ethernet/Telephone cable. Carefully provisioned for a vast diversity of applications, including vehicles, industrial automation, and datacenter monitoring. CNC and stepper motor driving use cases have been specifically documented. Innumerable configuration options are thoroughly supported. Printable color coded labels are available for maximum safety in high-power and high-reliability systems. Product of Soaring Industries LLC.
+_heading3 'ubiquitous_bash'
+_t 'At ~1MB of human written shell code, as of 2021, &#39;ubiquitous_bash&#39; is expected to remain largest, most sophisticated, most robust, and most all purpose, shell script ever created.
 
-https://github.com/mirage335/PatchRap/blob/master/PatchRap.pdf
+Compressed header templates exist to provide hundreds of functions for small single-script projects. If you have a problem that needs a shell script, you need &#39;ubiquitous_bash&#39;.
+
+Software containment and interoperability, multiplatform structured programming middleware. Compatible with UNIX/Linux and Cygwin/MSW.
+
+Build environments for arduino firmware (libraries, custom crystal-free boards, real-time debugger services), PCB photolithography (custom patched pcb2gcode binary), 3D printer fabrication (speed, cooling), etc, were fragile. Relying on Gentoo or Arch Linux to keep these dependencies usable while upgrading and installing other software would end up in a broken, unmaintainable state.
+
+Hence, Ubiquitous Bash happened. Software would see the same directories even if absolute locations changed (ie. &#39;abstractfs&#39;), have environment variables pointing to neighboring directories, dependencies would be installed automatically, tests would go far beyond usual CMake, and if necessary, filesystem parameters would automatically translate to run GUI programs through any virtualization backend (eg. ChRoot, QEMU, VirtualBox, Docker) which remained usable (always using the same raw disk image). Shared 3D space and multiple-input multiple-output pipes would be arranged as filesystem directories, automatically named pipes, triple buffers, etc, by the &#39;MetaEngine&#39; module of the script. Later, ad-hoc Inter-Process Communication (IPC) would emulate the &#39;shared pair of wires&#39; more typical of a hardware serial bus by both triple buffer and resetting pipes. All of this would also apply what few OS (both x64 and RasPi) customizations were still desired - copying these portable installations into bootable disk images and hooking developer functions into &#39;.bashrc &#39; through ChRoot.
+
+At least three years of shell scripting, >20k SLOC, and field testing, &#39;ubiquitous_bash&#39; has acheived all objectives.
+
+This document itself is self-modifying interleaved shell code and markup from &#39;ubiquitous_bash&#39;.'
+
+_heading3 'scriptedIllustrator'
+_t 'Documentation generation as self-modifying interleaved shell code and markup from &#39;ubiquitous_bash&#39;. Multiple simultaneous self-modifying output formats (HTML, MediaWiki, Markdown) and PDF conversion.
+
+This document itself is a &#39;scriptedIllustrator&#39; file.'
+
+_heading3 'BOM_designer'
+_t 'Hierarchical all-purpose Bill-of-Materials (aka. BOM) generator. Specifically intended to tally components from complex assemblies of other complex assemblies.'
+
+_heading3 'gEDA_designer'
+_t 'Generates, manufacturing (ie. gerber, centroid), distributor (eg. Mouser CSV), CAD (eg. SVG, DXF), model (eg. PDF, PNG),  photomask (eg. PDF), files. Includes template and vector tests. May use similarly contained custom patched &#39;pcb2gcode&#39; and/or &#39;pcb&#39; as necessary for photomask, CNC drill/routing path, and autorouting compatibility.'
+
+_heading3 'arduinoUbiquitous'
+_t 'Arduino build environments, projects, configuration, self-contained relative to &#39;ino&#39; file instead of user directories.
+
+Project and library file absolute locations always appear at same location (eg. &#39;/dev/shm/...&#39;) set by an automatically generated &#39;project.afs&#39; file (ie. &#39;ubiquitous_bash&#39; &#39;abstractfs&#39;). Working ARM hardware debugging services included with randomized network port connection to &#39;gdb&#39;, &#39;ddd&#39;, etc. Robust serial port and hardware port communication interaction and upload. Extensible by imported shell script neighboring &#39;ino&#39; file (eg. to implement firmware-specific serial port identification). Certified well-tested versions noted in README file. Among other features.'
+
+_heading3 'PatchRap'
+
+_t 'Modular and standardized machine wiring, power distribution. One wire from 3D printer &#39;motherboard&#39; per limit switch cable, instead of three.
+
+Instant &#39;PatchPanel&#39; combining a breadboards with a generic PCB. Adapts logic, sensors, actuators, and data networks to inexpensive, highly shielded long haul Ethernet/Telephone cable. Carefully provisioned for a vast diversity of applications, including vehicles, industrial automation, and datacenter monitoring. CNC and stepper motor driving use cases have been specifically documented. Innumerable configuration options are thoroughly supported. Printable color coded labels are available for maximum safety in high-power and high-reliability systems. Product of Soaring Industries LLC.
+
+https://github.com/mirage335/PatchRap/blob/master/PatchRap.pdf'
+
+_heading3 'LiveUSB/LiveCD'
+_t 'Built by &#39;ubiquitous_bash&#39;. Hibernation Snapshot, SaveState (VM features on any virtualization backend or physical computer hardware). Bootable disk images from same build also will be used as development computer (x64), end-user computer  (x64), cloud services  (x64) for thin-client, and embedded (RasPi) OS distribution.'
+
+_heading3 'TazIntermediate'
+_t 'Field test of tool usability, from electromechanical design, to the point of cabling diagramming and assembly rehearsal in VR. Only the VR part not yet 100% FLOSS, otherwise portable to any Linux (eg. VM) machine.'
 
 
-_Toolchain_
-
-Proven with TazIntermediate, to the point of cabling diagramming and assembly rehearsal in VR. Only the VR part not yet 100% FLOSS, portable to any Linux (eg. VM) machine.
-
-arduinoUbiquitous, FreeCAD with A2Plus (contained by ubiquitous bash), gEDA_designer, BOM_designer, etc
 
 
 
-_Ubiquitous Bash_
-
-Linux and Native MSW compatible.
-
-...
-
--IQEmu-
-Now part of ubiquitous bash, compatible with both Linux and MSW guests. MSW host support well underway.
-
-Tightly integrates native Windows applications with Linux. Once installed, a user can use a shortcut
-to open "/home/user/document.docx" with "msword". The document will then open in a temporary
-virtual machine, running Microsoft Windows and Microsoft Office. Implemented entirely with bash
-scripts, IQEmu supports both VMWare and VirtualBox for virtualization.
-Double clicking this on a Linux computer:
-Can now bring up this:
-
-
-
--LiveCD/LiveUSB with Hibernation Snapshot, SaveState (VM features on any virtualization backend or physical computer hardware)'
-
-
-_page ' ' ###
+_ _page ' ' ###
 _heading2 'Projects'
 
 _t 'Assortment of side projects. Some continue as substantially important resources, others as expended resources having fulfilled a useful purpose and exemplified principles for future work.'

@@ -72,13 +72,3 @@ _consolidate_documents() {
 
 
 
-
-
-
-
-
-
-
-
-
-
