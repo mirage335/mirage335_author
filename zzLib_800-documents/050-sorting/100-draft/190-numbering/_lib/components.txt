@@ -1,0 +1,99 @@
+"_lib	- software, records, etc, typically uniquely needed by specific CAD model
+
+00[00]-RESERVED (do NOT use)
+
+
+01[00]-Bundle
+	0110-Frames
+	0150-Actuators
+	0151[z]-Thruster/Driver
+		Components only used for these?
+		Screws used within these?
+	0160-Tools
+		Nozzle
+		Hot-End
+		Cold-End
+		Extension (Bowden Tube)
+	0162-Supplementary
+		Filament Storage
+	0165-Slab (workpiece mounting surface)
+	0170-Tray (surface to mount electronics and similar)
+	0172-Rack (enclosure for electronics and similar, and/or junction box)
+	0175-Cabinet (arbitrary storage)
+
+
+
+11[00]-Structural (Passive, Cut To Size)
+	1110[z]-Extrusions/Timbers
+		_resized
+	1112[z]-Sheets/Panels/Plates (for frames only)
+		_rescaled (PreDrilled only)
+	1115-Backing (Table)
+
+
+
+30[00]-Conveyance
+	3030[z]-Shaft/Piston
+	3032-LeadScrew
+	3033[z]-Belts
+	3035- to 3038- RESERVED (do NOT use)
+
+35[00]-Couplings (including flexible, u-joints, etc)
+	3530-LeadScrew_to_Motor
+
+
+
+50[00]-Effectors
+	5050[z]-Motors/Steppers/Servos
+	5051[z]-RotaryBearings/RotaryShims
+	
+	5052[z]-NutBlocks/PlatesEffectors/BracketsEffectors (typically belt tie-down points), etc.
+	5053-RESERVED
+	
+	5054[z]-Guides (Wheels/Bushings/LinearBearings)
+	
+	5055-Pulleys
+	5056-Gears
+	
+	5058-Limit Switch
+
+55[00]-RESERVED (do NOT use)
+	
+
+(6000 RESERVED)
+
+(7000 RESERVED)
+
+
+
+80[00]-Endpoints
+	8080-Plug
+		RJ45
+		misc
+	8081-Jack
+		RJ45
+		misc
+	8082-RESERVED (do NOT use)
+	8083-RESERVED (do NOT use)
+
+85[00]-Dissipator
+	8580-Fans
+	8581-Pump
+	8582-Heatsink
+	8585-Radiator
+
+9000-Miscellaneous
+	9090z-Screws/Bolts
+	9095-frequent (most frequently used)
+	9099-Misc
+		zMisc (unsortred, typically uniquely needed by specific CAD model)
+
+9100-KEEPOUT (solid objects used to mark regions reserved for future use)
+
+94[00]
+to
+98[00]
+	RESERVED for future use
+
+99[00]-import
+	RESERVED for future use"

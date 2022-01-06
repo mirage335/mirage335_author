@@ -1,0 +1,30 @@
+_ Copyright _
+
+AGPLv3
+Unusual exception for specific complete binary files as described by license notice.
+__ License Notice __
+[0;37;100mmirage335_author[0m
+[0;37;100mCopyright (C) 2021,2022-  mirage335[0m
+
+[0;37;100mThis program is free software; you can redistribute it and/or modify[0m
+[0;37;100mit under the terms of the GNU Affero General Public License as published by[0m
+[0;37;100mthe Free Software Foundation; either version 3 of the License, or[0m
+[0;37;100m(at your option) any later version.[0m
+
+[0;37;100mThis program is distributed in the hope that it will be useful,[0m
+[0;37;100mbut WITHOUT ANY WARRANTY; without even the implied warranty of[0m
+[0;37;100mMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the[0m
+[0;37;100mGNU Affero General Public License for more details.[0m
+
+[0;37;100mYou should have received a copy of the GNU Affero General Public License[0m
+[0;37;100malong with this program; if not, write to the Free Software Foundation,[0m
+[0;37;100mInc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301  USA[0m
+
+[0;37;100mAll files in this folder and subfolders, unless explicitly stated otherwise or copyrighted by other authors, are copyrighted by mirage335 as described above.[0m
+
+
+[0;37;100mUnusually, specific binary PDF files (eg. "mirage335_author.pdf") clearly intended as a complete document (ie. NOT files normally included by 'pdfunite' or similar utilities) may ONLY be redistributed either in accordance this AGPLv3 license or if strictly complete, unmodified, except by normal and abundantly cautious variations in raster printing, independently. As such, complete printed copies of those specific complete unmodified files may be distrubited.[0m
+
+
+
+
