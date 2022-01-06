@@ -336,12 +336,12 @@ Hence, Ubiquitous Bash happened. Software would see the same directories even if
 
 At least three years of shell scripting, >20k SLOC, and field testing, &#39;ubiquitous_bash&#39; has acheived all objectives.
 
-This document itself is self-modifying interleaved shell code and markup from &#39;ubiquitous_bash&#39;.'
+This document itself is self-modifying interleaved shell code from &#39;ubiquitous_bash&#39; and markup.'
 
 _heading3 'scriptedIllustrator'
-_t 'Documentation generation as self-modifying interleaved shell code and markup from &#39;ubiquitous_bash&#39;. Multiple simultaneous self-modifying output formats (HTML, MediaWiki, Markdown) and PDF conversion.
+_t 'Documentation generation as self-modifying file of interleaved shell code from &#39;ubiquitous_bash&#39; and markup (using block comments of each language). Multiple simultaneous self-modifying output formats (HTML, MediaWiki, Markdown) and PDF conversion.
 
-This document itself is a &#39;scriptedIllustrator&#39; file.'
+This document itself is created by &#39;scriptedIllustrator&#39;.'
 
 _heading3 'BOM_designer'
 _t 'Hierarchical all-purpose Bill-of-Materials (aka. BOM) generator. Specifically intended to tally components from complex assemblies of other complex assemblies.'
@@ -379,7 +379,7 @@ _t 'Assortment of side projects. Some continue as substantially important resour
 
 _picture "$zzLib_895_reference"/facilities/workbench.jpg "25%"
 #_image "$zzLib_895_reference"/facilities/vr_workstation.jpg "65%"
-_image "$zzLib_895_reference"/facilities/facilities-vrWorkstation-more.jpg "65%"
+_image "$zzLib_895_reference"/facilities/facilities-vrWorkstation-more.jpg "70%"
 
 _cells_begin
 
@@ -478,11 +478,23 @@ _picture "$zzLib_895_reference"/demo/Render-Cabling-Back.png "98%"
 _cells_speck_end
 _cells_row_end
 
-
 _cells_end
 
 
-_picture "$zzLib_895_reference"/emblems/businessCard_mirage335_pcb.png "35%"
+
+_ _cells_begin
+_ _cells_row_begin
+_ _cells_speck_begin "75%"
+_ _picture "$zzLib_895_reference"/demo/flightSim.jpg "98%"
+_ _cells_speck_end
+_ _cells_speck_begin "20%"
+_ _picture "$zzLib_895_reference"/emblems/businessCard_mirage335_pcb.png "98%"
+_ _cells_speck_end
+_ _cells_row_end
+_ _cells_end
+
+_image "$zzLib_895_reference"/demo/flightSim.jpg "95%"
+_picture "$zzLib_895_reference"/emblems/businessCard_mirage335_pcb.png "40%"
 
 _heading3 'Industrial Computerized Numerical Control (CNC) Platforms'
 _t 'Designing, building, and operating a growing base of industrial Computerized Numerical Control (CNC) platforms.

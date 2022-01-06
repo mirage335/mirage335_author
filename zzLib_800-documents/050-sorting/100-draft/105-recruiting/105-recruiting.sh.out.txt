@@ -206,11 +206,11 @@ Hence, Ubiquitous Bash happened. Software would see the same directories even if
 
 At least three years of shell scripting, >20k SLOC, and field testing, &#39;ubiquitous_bash&#39; has acheived all objectives.
 
-This document itself is self-modifying interleaved shell code and markup from &#39;ubiquitous_bash&#39;.
+This document itself is self-modifying interleaved shell code from &#39;ubiquitous_bash&#39; and markup.
 ___ scriptedIllustrator ___
-Documentation generation as self-modifying interleaved shell code and markup from &#39;ubiquitous_bash&#39;. Multiple simultaneous self-modifying output formats (HTML, MediaWiki, Markdown) and PDF conversion.
+Documentation generation as self-modifying file of interleaved shell code from &#39;ubiquitous_bash&#39; and markup (using block comments of each language). Multiple simultaneous self-modifying output formats (HTML, MediaWiki, Markdown) and PDF conversion.
 
-This document itself is a &#39;scriptedIllustrator&#39; file.
+This document itself is created by &#39;scriptedIllustrator&#39;.
 ___ BOM_designer ___
 
 Hierarchical all-purpose Bill-of-Materials (aka. BOM) generator. Specifically intended to tally components from complex assemblies of other complex assemblies.
@@ -233,14 +233,11 @@ Built by &#39;ubiquitous_bash&#39;. Hibernation Snapshot, SaveState (VM features
 ___ TazIntermediate ___
 
 Field test of tool usability, from electromechanical design, to the point of cabling diagramming and assembly rehearsal in VR. Only the VR part not yet 100% FLOSS, otherwise portable to any Linux (eg. VM) machine.
- '_page' ' '
-PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak
-		
 __ Projects __
 
 Assortment of side projects. Some continue as substantially important resources, others as expended resources having fulfilled a useful purpose and exemplified principles for future work.
  '_picture' '/media/user/79bb3e49-6ff0-4ff6-b1fd-696cbde468f4/fs/mirage335_author/zzLib_800-documents/../zzLib_895-reference/facilities/workbench.jpg' '25%'
- '_image' '/media/user/79bb3e49-6ff0-4ff6-b1fd-696cbde468f4/fs/mirage335_author/zzLib_800-documents/../zzLib_895-reference/facilities/facilities-vrWorkstation-more.jpg' '65%'
+ '_image' '/media/user/79bb3e49-6ff0-4ff6-b1fd-696cbde468f4/fs/mirage335_author/zzLib_800-documents/../zzLib_895-reference/facilities/facilities-vrWorkstation-more.jpg' '70%'
  '_cells_begin'
  '_cells_row_begin'
  '_cells_speck_begin' '30%'
@@ -330,7 +327,8 @@ PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- 
  '_cells_speck_end'
  '_cells_row_end'
  '_cells_end'
- '_picture' '/media/user/79bb3e49-6ff0-4ff6-b1fd-696cbde468f4/fs/mirage335_author/zzLib_800-documents/../zzLib_895-reference/emblems/businessCard_mirage335_pcb.png' '35%'
+ '_image' '/media/user/79bb3e49-6ff0-4ff6-b1fd-696cbde468f4/fs/mirage335_author/zzLib_800-documents/../zzLib_895-reference/demo/flightSim.jpg' '95%'
+ '_picture' '/media/user/79bb3e49-6ff0-4ff6-b1fd-696cbde468f4/fs/mirage335_author/zzLib_800-documents/../zzLib_895-reference/emblems/businessCard_mirage335_pcb.png' '40%'
 ___ Industrial Computerized Numerical Control (CNC) Platforms ___
 Designing, building, and operating a growing base of industrial Computerized Numerical Control (CNC) platforms.
 
