@@ -1,5 +1,5 @@
 mirage335_author
-Copyright (C) 2021  mirage335
+Copyright (C) 2021,2022-  mirage335
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
@@ -16,3 +16,7 @@ along with this program; if not, write to the Free Software Foundation,
 Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301  USA
 
 All files in this folder and subfolders, unless explicitly stated otherwise or copyrighted by other authors, are copyrighted by mirage335 as described above.
+
+
+Unusually, specific binary PDF files (eg. "mirage335_author.pdf") clearly intended as a complete document (ie. NOT files normally included by 'pdfunite' or similar utilities) may ONLY be redistributed either in accordance this AGPLv3 license or if strictly complete, unmodified, except by normal and abundantly cautious variations in raster printing, independently. As such, complete printed copies of those specific complete unmodified files may be distrubited.
+

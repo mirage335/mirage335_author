@@ -290,3 +290,8 @@ _local/setups/firefox-esr
 
 
 
+# ### from kit
+*.sh.pdf
+document.pdf
+
+

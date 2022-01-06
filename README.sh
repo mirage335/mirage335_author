@@ -55,7 +55,7 @@ _document_main() {
 #b
 # NOTICE: DOCUMENT
 #__HEADER_uk4uPhB663kVcygT0q_HEADER__
-_t 'Copyright (C) 2021 mirage335
+_t 'Copyright (C) 2021,2022- mirage335
 See the end of the file for license conditions.
 See license.txt for mirage335_author license conditions.
 

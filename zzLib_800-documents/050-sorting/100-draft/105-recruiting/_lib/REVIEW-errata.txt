@@ -1,0 +1,63 @@
+"
+
+_ Terms _
+
+someSearchTerm
+
+googleThatForYou
+
+
+
+
+_ Rough _
+
+*) Nifty trick to make things work better.
+
+
+*) More ideas.
+ *) Some other way to do such things as described in article.
+ *) Many other ways to do things.
+
+
+
+
+-
+REVIEW - May be duplicative from (another) part of (another) document.
+
+
+*) Probably some trick more useful to some other purpose.
+
+
+
+-
+Elaboration regarding otherwise already noted concepts.
+
+
+*) Obvious but wrong idea which article did not call out as such.
+
+
+*) Specific concept from article.
+ *) Some trick to make it work better.
+
+
+
+*) Something mentioned in article can actually do more or less than would seem obvious.
+
+
+
+
+_Reference_
+
+https://www.example.com/justStuffThatMightBeInterestingSomehow/notReallyRelevant/noCitationStuffHere
+	&#39;useful fact quote&#39;
+	&#39;useful fact quote&#39;
+		&#39;related useful fact quote&#39;
+			Opinion.
+	&#39;useful fact quote&#39;
+
+
+
+
+
+
+"
