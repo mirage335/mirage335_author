@@ -109,7 +109,7 @@ export fromSelfFolder_errata=$(cat "$scriptLib"/REVIEW-errata.txt 2>/dev/null)
 }
 
 
-# TODO: TODO: TODO: TODO: TODO: WIP !
+
 _document_main() {
 #a
 #b
@@ -644,6 +644,20 @@ _t 'RoHS ban of leaded solder is of negligible benefit and substantial harm wher
 *) Data loss unpreventable due simultaneous tin whisker bridging failures including unintended simultaneous overwriting of multiple RAID arrays.
 
 For the future, all industries must be wary of provoking such a ban instead of a more reasonable tax, as a consequence of any perceived irresponsibility on their part.'
+
+
+_heading1 'Copyright'
+
+_t 'AGPLv3
+Unusual exception for specific complete binary files as described by license notice.'
+
+_heading2 'License Notice'
+
+_o cat "$scriptLib"/license.txt
+
+_ _heading2 'License Text'
+_ _o-small-html cat "$scriptLib"/agpl-3.0.txt
+
 #__FOOTER_uk4uPhB663kVcygT0q_FOOTER__
 # NOTICE: DOCUMENT
 #y

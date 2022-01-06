@@ -110,7 +110,7 @@ export fromSelfFolder_errata=$(cat "$scriptLib"/REVIEW-errata.txt 2>/dev/null)
 }
 
 
-# TODO: TODO: TODO: TODO: TODO: WIP !
+
 _document_main() {
 #a
 #b

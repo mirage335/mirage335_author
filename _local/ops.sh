@@ -33,6 +33,12 @@ _consolidate_documents() {
 	_messageNormal ' consolidate_documents: find: scriptedIllustrator'
 	find "$scriptAbsoluteFolder"/zzLib_800-documents/050-sorting/100-draft -iname '*.sh' -not -iname '*.txt.sh' -exec "$scriptAbsoluteLocation" _documents_callScriptedIllustrator {} \;
 	
+	_messageNormal ' consolidate_documents: specific'
+	_documents_callScriptedIllustrator "$scriptAbsoluteFolder"/zzLib_800-documents/050-sorting/201-copyright/201-copyright.sh
+	
+	
+	
+	_messageNormal ' consolidate_documents: unite'
 	
 	
 	rm -f "$scriptAbsoluteFolder"/document.pdf > /dev/null 2>&1
@@ -57,9 +63,13 @@ _consolidate_documents() {
 	pdfunite "$scriptAbsoluteFolder"/zzLib_800-documents/050-sorting/100-draft/105-recruiting/105-recruiting-errata.sh.pdf \
 	"$scriptBundle"/document-recruiting-errata.pdf
 	
+	#"$scriptAbsoluteFolder"/zzLib_800-documents/050-sorting/201-copyright/201-copyright.sh.pdf \
 	pdfunite "$scriptAbsoluteFolder"/zzLib_800-documents/050-sorting/100-draft/105-recruiting/105-recruiting.sh.pdf \
 	"$scriptAbsoluteFolder"/zzLib_800-documents/050-sorting/100-draft/105-recruiting/105-recruiting-errata.sh.pdf \
 	"$scriptBundle"/document-recruiting-complete.pdf
+	
+	pdfunite "$scriptAbsoluteFolder"/zzLib_800-documents/050-sorting/100-draft/190-numbering/190-numbering.sh.pdf \
+	"$scriptBundle"/document-numbering.pdf
 	
 	_recompress_pdf "$scriptBundle"/document-biography.pdf
 	_recompress_pdf "$scriptBundle"/document-recruiting.pdf
