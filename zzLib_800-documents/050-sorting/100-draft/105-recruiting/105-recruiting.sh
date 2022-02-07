@@ -151,9 +151,9 @@ My goal was and will long remain the widest possible empowerment - the expedient
 _heading2 'Diversity, Equity, Inclusiveness (DEI)'
 _t 'Author &#39;mirage335&#39; supports any reasonable path, valuing that many other persons have reasonable ideas, often adding new abilities and imagination.
 
-For diversity, bring an apparently unique emphasis on pragmatism, possibilities, and brevity, so others may pursue their own unique interests.
+For diversity, bring an apparently unique emphasis on pragmatism, possibilities, and brevity, so more is available for more people to pursue their own unique interests.
 For equity, continue to unequivocally oppose and reverse any bias whenever credible evidence is found, as well as support others who find, oppose, or reverse, bias.
-For inclusiveness, press for the realization that people with different interests can in fact coexist in the same world and universe.'
+For inclusiveness, press for the realization that people with different interests and backgrounds are actually uniquely valuable and can in fact coexist in the same world and universe.'
 
 _page ' ' ###
 _t 'Sometimes I, &#39;mirage335&#39;, have had the disappointment of witnessing and hearing of seriously intentional biased derogatory remarks, explicitly stated unwelcome harassment, imposition of limits, insinuation that non-conflicting private inclinations are public conflicts of interest. An individual&#39;s potential, contributions, and experience of life, is wholly distinct from any other attribute, group, behavior. Any bias otherwise only causes harm, is irrational as such, and discourages productive individuals who will notice.
