@@ -122,7 +122,7 @@ _heading1 'mirage335 autobiography'
 _t 'My strong interest is in deploying a self-expanding VR environment throughout uninhabited galaxies and most of the Milky Way, so we can all get the most out of life. Already on the frontier of working and living in VR, with >2k hours in headsets and among the first people in the world to get a prototype Pimax Vision 8kX headset. Have designed much hardware and software emphasizing complete &#39;out-of-the-box&#39; FLOSS toolchains, and more is always underway. Also have a long track record of non-profit volunteer service, particularly with HacDC, The Capital Hackerspace.
 
 Name is Matthew "mirage335" Hines, also findable as "m335" (Discord servers, etc) and "AB3PI" (Amateur Radio).'
-_image "$zzLib_895_reference"/demo/TazStiff_owner.jpg
+_image $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/TazStiff_owner.jpg)
 #__FOOTER_uk4uPhB663kVcygT0q_FOOTER__
 # NOTICE: DOCUMENT
 #y

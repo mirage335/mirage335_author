@@ -1,10 +1,13 @@
+
 _ Recruiting _
+
 _ Matthew "mirage335" Hines _
 
 Maximum performance solutions.
 
- '_picture' '/media/user/79bb3e49-6ff0-4ff6-b1fd-696cbde468f4/fs/mirage335_author/zzLib_800-documents/../zzLib_895-reference/demo/TazStiff_owner.jpg' '45%'
- '_image' '/media/user/79bb3e49-6ff0-4ff6-b1fd-696cbde468f4/fs/mirage335_author/zzLib_800-documents/../zzLib_895-reference/demo/mrocks.jpg' '45%'
+ '_picture' '../../../../zzLib_895-reference/demo/TazStiff_owner.jpg' '45%'
+ '_image' '../../../../zzLib_895-reference/demo/mrocks.jpg' '45%'
+
 __ Communication __
 
 IRC WebChat: http://webchat.freenode.net/?channels=%23%23mirage335
@@ -15,6 +18,7 @@ Phone: 1-301-660-6414
 Typically available between 10:00-22:00 EDT and often beyond.
 
 More information available on request.
+
 __ Direction __
 Helpful individuals or organizations are invited to participate.
 
@@ -28,18 +32,20 @@ Eventually, while we still can before this universe ends in chaos, we must mostl
 
 
 My goal was and will long remain the widest possible empowerment - the expedient transition from no wealth, through living on wealth, to the unlimited wealth of self-driving AI for all to experience whatever life however they may wish.
+
 __ Diversity, Equity, Inclusiveness (DEI) __
 Author &#39;mirage335&#39; supports any reasonable path, valuing that many other persons have reasonable ideas, often adding new abilities and imagination.
 
 For diversity, bring an apparently unique emphasis on pragmatism, possibilities, and brevity, so more is available for more people to pursue their own unique interests.
 For equity, continue to unequivocally oppose and reverse any bias whenever credible evidence is found, as well as support others who find, oppose, or reverse, bias.
 For inclusiveness, press for the realization that people with different interests and backgrounds are actually uniquely valuable and can in fact coexist in the same world and universe.
- '_page' ' '
-PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak
-		
+
+ '_page' ' 'PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak
+
 Sometimes I, &#39;mirage335&#39;, have had the disappointment of witnessing and hearing of seriously intentional biased derogatory remarks, explicitly stated unwelcome harassment, imposition of limits, insinuation that non-conflicting private inclinations are public conflicts of interest. An individual&#39;s potential, contributions, and experience of life, is wholly distinct from any other attribute, group, behavior. Any bias otherwise only causes harm, is irrational as such, and discourages productive individuals who will notice.
 
 Discovering such discouragement is difficult enough, tolerating such discouragement has no rational excuse.
+
 __ Strengths __
 *) Robust containment of complete hardware and software design toolchains with interprocess-communication within single filesystem directories.
 
@@ -48,7 +54,9 @@ __ Strengths __
 *) Strategic planning, technical point-of-diminishing returns due diligence.
 
 *) Extensively self-taught, accustomed to efficiently exploring uncharted territory.
+
 __ Official Titles __
+
 ___ HacDC - Former Director at Large, Former Vice President and Director of IT, Admin Team, Contributing Member ___
 May2012 - May2021
 
@@ -56,6 +64,7 @@ http://www.hacdc.org/
 
 Official contact for SUPPLIES and EXPANSION funds.
 Network infrastructure for St.Stephens Church and tenants. Shell/VPS servers for HacDC members.
+
 ___ Imagnus Medical - Director of Engineering ___
 Feb2013 - Present
 
@@ -65,6 +74,7 @@ Interdisciplinary technical leadership, strategic planning.
 CAD modeling, electronics design.
 IT infrastructure management.
 Electrical, mechanical, and optical prototyping - fabrication and assembly.
+
 ___ 3D Connected Printing, ZXYPro - Software Technologist (formerly Chief Technology Officer) ___
 May2016 - Present
 
@@ -76,13 +86,15 @@ Interdisciplinary technical leadership, strategic planning.
 CAD modeling, electronics design.
 IT infrastructure management.
 CNC machinery design, maintenance, improvement.
+
 ___ Soaring Industries LLC ___
 Mar2016 - Present
 
 Owner, Sole Proprietor, CEO
- '_page' ' '
-PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak
-		
+
+ '_page' ' 'PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak
+
+
 __ Skills __
 Over the years, some specific skills have been put into use, by no means a complete list.
 
@@ -153,28 +165,34 @@ Project Management
 Git
 GitLab
 Research
- '_page' ' '
-PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak
-		
+
+ '_page' ' 'PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak
+
+
 __ Community __
 
 Have extensive experience leading community organizations, teaching freely available classes, and identifying issues in open-source code. Additionally, many other projects have been done collaboratively or in service of a larger community.
+
 ___ Assistant Teacher to Dan Barlow for CNC Mill Class ___
 
 Class (at HacDC) began with Dan Barlow&#39;s outstanding theoretical introduction, which covered mounting hardware, cutting speeds, machine subsystems, and much more. Subsequently provided practical, hands-on individual instruction. Participants were independently able to attach appropriate mounting hardware, clamp workpieces, generate g-code using JSCut, and actually mill their designs.
+
 ___ CAD Modeling Class ___
 
 Participants (at HacDC) were guided to create complex printable 3D models in under 20 minutes. Focus was on the fundamental geometric CAD workflow: sketching, constraining, extruding, face sketching, and assembling. After this tutorial, in-service part designs were demonstrated.
+
 ___ KVIrc Weak Encryption ___
 Tested and found KVIrc encryption to use only ECB mode, which outputs identical ciphertext for identical inputs and keys. Filed bug report, and contacted developer CtrlAltCa via IRC. Proper CBC mode encryption became available and documented for KVIrc as a result. Encrypting an image in ECB mode, as Wikipedia demonstrates, dramatically reveals this is an incorrect way to use otherwise secure ciphers.
 
 http://en.wikipedia.org/wiki/Block_cipher_modes_of_operation
 https://svn.kvirc.de/kvirc/ticket/1169
 http://en.wikipedia.org/wiki/File:Tux_ecb.jpg
+
 ___ Linux Kernel Tracer Bug ___
 
 Reported and assisted diagnosis for a Linux kernel bug affecting kernel latency (ie. desktop interactivity). Bug fix was subsequently committed to mainline Linux kernel.
 See commit db4c75cbebd7e5910cd3bcb6790272fcc3042857 at http://www.kernel.org/pub/linux/kernel/v3.x/ChangeLog-3.3.5.
+
 ___ Web2Project ___
 
 Added URL-based autofill functionality.
@@ -182,17 +200,20 @@ Added URL-based autofill functionality.
 
 Corrected Calendar URL feed link generator logic. Commit merged into mainline.
 	https://github.com/web2project/web2project/pull/284
+
 ___ DAViCal ___
 
 Minor bugfix regarding BIND request (external subscription) support. See dmfs.org for a description of this functionality.
 	https://github.com/mirage335/davical/commit/60895b6aef8cfea6a2b2f29653d33f98c35e7bba
 	http://dmfs.org/wiki/index.php?title=DAViCal
- '_page' ' '
-PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak
-		
+
+ '_page' ' 'PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak
+
+
 __ Tools __
 
 (notable)
+
 ___ ubiquitous_bash ___
 At ~1MB of human written shell code, as of 2021, &#39;ubiquitous_bash&#39; is expected to remain largest, most sophisticated, most robust, and most all purpose, shell script ever created.
 
@@ -207,128 +228,137 @@ Hence, Ubiquitous Bash happened. Software would see the same directories even if
 At least three years of shell scripting, >20k SLOC, and field testing, &#39;ubiquitous_bash&#39; has acheived all objectives.
 
 This document itself is self-modifying interleaved shell code from &#39;ubiquitous_bash&#39; and markup.
+
 ___ scriptedIllustrator ___
 Documentation generation as self-modifying file of interleaved shell code from &#39;ubiquitous_bash&#39; and markup (using block comments of each language). Multiple simultaneous self-modifying output formats (HTML, MediaWiki, Markdown) and PDF conversion.
 
 This document itself is created by &#39;scriptedIllustrator&#39;.
+
 ___ BOM_designer ___
 
 Hierarchical all-purpose Bill-of-Materials (aka. BOM) generator. Specifically intended to tally components from complex assemblies of other complex assemblies.
+
 ___ gEDA_designer ___
 
 Generates, manufacturing (ie. gerber, centroid), distributor (eg. Mouser CSV), CAD (eg. SVG, DXF), model (eg. PDF, PNG),  photomask (eg. PDF), files. Includes template and vector tests. May use similarly contained custom patched &#39;pcb2gcode&#39; and/or &#39;pcb&#39; as necessary for photomask, CNC drill/routing path, and autorouting compatibility.
+
 ___ arduinoUbiquitous ___
 Arduino build environments, projects, configuration, self-contained relative to &#39;ino&#39; file instead of user directories.
 
 Project and library file absolute locations always appear at same location (eg. &#39;/dev/shm/...&#39;) set by an automatically generated &#39;project.afs&#39; file (ie. &#39;ubiquitous_bash&#39; &#39;abstractfs&#39;). Working ARM hardware debugging services included with randomized network port connection to &#39;gdb&#39;, &#39;ddd&#39;, etc. Robust serial port and hardware port communication interaction and upload. Extensible by imported shell script neighboring &#39;ino&#39; file (eg. to implement firmware-specific serial port identification). Certified well-tested versions noted in README file. Among other features.
+
 ___ PatchRap ___
 Modular and standardized machine wiring, power distribution. One wire from 3D printer &#39;motherboard&#39; per limit switch cable, instead of three.
 
 Instant &#39;PatchPanel&#39; combining a breadboards with a generic PCB. Adapts logic, sensors, actuators, and data networks to inexpensive, highly shielded long haul Ethernet/Telephone cable. Carefully provisioned for a vast diversity of applications, including vehicles, industrial automation, and datacenter monitoring. CNC and stepper motor driving use cases have been specifically documented. Innumerable configuration options are thoroughly supported. Printable color coded labels are available for maximum safety in high-power and high-reliability systems. Product of Soaring Industries LLC.
 
 https://github.com/mirage335/PatchRap/blob/master/PatchRap.pdf
+
 ___ LiveUSB/LiveCD ___
 
 Built by &#39;ubiquitous_bash&#39;. Hibernation Snapshot, SaveState (VM features on any virtualization backend or physical computer hardware). Bootable disk images from same build also will be used as development computer (x64), end-user computer  (x64), cloud services  (x64) for thin-client, and embedded (RasPi) OS distribution.
+
 ___ TazIntermediate ___
 
 Field test of tool usability, from electromechanical design, to the point of cabling diagramming and assembly rehearsal in VR. Only the VR part not yet 100% FLOSS, otherwise portable to any Linux (eg. VM) machine.
+
 __ Projects __
 
 Assortment of side projects. Some continue as substantially important resources, others as expended resources having fulfilled a useful purpose and exemplified principles for future work.
- '_picture' '/media/user/79bb3e49-6ff0-4ff6-b1fd-696cbde468f4/fs/mirage335_author/zzLib_800-documents/../zzLib_895-reference/facilities/workbench.jpg' '25%'
- '_image' '/media/user/79bb3e49-6ff0-4ff6-b1fd-696cbde468f4/fs/mirage335_author/zzLib_800-documents/../zzLib_895-reference/facilities/facilities-vrWorkstation-more.jpg' '70%'
+ '_picture' '../../../../zzLib_895-reference/facilities/workbench.jpg' '25%'
+ '_image' '../../../../zzLib_895-reference/facilities/facilities-vrWorkstation-more.jpg' '70%'
  '_cells_begin'
  '_cells_row_begin'
  '_cells_speck_begin' '30%'
- '_picture' '/media/user/79bb3e49-6ff0-4ff6-b1fd-696cbde468f4/fs/mirage335_author/zzLib_800-documents/../zzLib_895-reference/demo/MightyTool.jpg' '98%'
+ '_picture' '../../../../zzLib_895-reference/demo/MightyTool.jpg' '98%'
  '_cells_speck_end'
  '_cells_speck_begin' '30%'
- '_picture' '/media/user/79bb3e49-6ff0-4ff6-b1fd-696cbde468f4/fs/mirage335_author/zzLib_800-documents/../zzLib_895-reference/demo/04-RigidTableAssembly.jpg' '98%'
+ '_picture' '../../../../zzLib_895-reference/demo/04-RigidTableAssembly.jpg' '98%'
  '_cells_speck_end'
  '_cells_speck_begin' '30%'
- '_picture' '/media/user/79bb3e49-6ff0-4ff6-b1fd-696cbde468f4/fs/mirage335_author/zzLib_800-documents/../zzLib_895-reference/demo/02-PrecisionEngraveTest.jpg' '98%'
+ '_picture' '../../../../zzLib_895-reference/demo/02-PrecisionEngraveTest.jpg' '98%'
  '_cells_speck_end'
  '_cells_row_end'
  '_cells_end'
- '_page' ' '
-PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak
-		
+
+ '_page' ' 'PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak
+
  '_cells_begin'
  '_cells_row_begin'
  '_cells_speck_begin' '30%'
- '_picture' '/media/user/79bb3e49-6ff0-4ff6-b1fd-696cbde468f4/fs/mirage335_author/zzLib_800-documents/../zzLib_895-reference/demo/500px-PrusaMendelPresent.jpg' '98%'
+ '_picture' '../../../../zzLib_895-reference/demo/500px-PrusaMendelPresent.jpg' '98%'
  '_cells_speck_end'
  '_cells_speck_begin' '30%'
- '_picture' '/media/user/79bb3e49-6ff0-4ff6-b1fd-696cbde468f4/fs/mirage335_author/zzLib_800-documents/../zzLib_895-reference/demo/TestCartStylish.jpg' '98%'
+ '_picture' '../../../../zzLib_895-reference/demo/TestCartStylish.jpg' '98%'
  '_cells_speck_end'
  '_cells_speck_begin' '30%'
- '_picture' '/media/user/79bb3e49-6ff0-4ff6-b1fd-696cbde468f4/fs/mirage335_author/zzLib_800-documents/../zzLib_895-reference/demo/OccupancySensor.jpg' '98%'
- '_cells_speck_end'
- '_cells_row_end'
- '_cells_row_begin'
- '_cells_speck_begin' '30%'
- '_picture' '/media/user/79bb3e49-6ff0-4ff6-b1fd-696cbde468f4/fs/mirage335_author/zzLib_800-documents/../zzLib_895-reference/PatchRap/PatchRap.jpg' '98%'
- '_cells_speck_end'
- '_cells_speck_begin' '30%'
- '_picture' '/media/user/79bb3e49-6ff0-4ff6-b1fd-696cbde468f4/fs/mirage335_author/zzLib_800-documents/../zzLib_895-reference/demo/02-heartbeat.jpg' '98%'
- '_cells_speck_end'
- '_cells_speck_begin' '30%'
- '_picture' '/media/user/79bb3e49-6ff0-4ff6-b1fd-696cbde468f4/fs/mirage335_author/zzLib_800-documents/../zzLib_895-reference/demo/08-AlphaWavesLowRes.jpg' '98%'
+ '_picture' '../../../../zzLib_895-reference/demo/OccupancySensor.jpg' '98%'
  '_cells_speck_end'
  '_cells_row_end'
  '_cells_row_begin'
  '_cells_speck_begin' '30%'
- '_picture' '/media/user/79bb3e49-6ff0-4ff6-b1fd-696cbde468f4/fs/mirage335_author/zzLib_800-documents/../zzLib_895-reference/demo/toroidFormer.png' '98%'
+ '_picture' '../../../../zzLib_895-reference/PatchRap/PatchRap.jpg' '98%'
  '_cells_speck_end'
  '_cells_speck_begin' '30%'
- '_picture' '/media/user/79bb3e49-6ff0-4ff6-b1fd-696cbde468f4/fs/mirage335_author/zzLib_800-documents/../zzLib_895-reference/demo/Antenna.jpg' '98%'
+ '_picture' '../../../../zzLib_895-reference/demo/02-heartbeat.jpg' '98%'
  '_cells_speck_end'
  '_cells_speck_begin' '30%'
- '_picture' '/media/user/79bb3e49-6ff0-4ff6-b1fd-696cbde468f4/fs/mirage335_author/zzLib_800-documents/../zzLib_895-reference/demo/AllBandTest.png' '98%'
+ '_picture' '../../../../zzLib_895-reference/demo/08-AlphaWavesLowRes.jpg' '98%'
  '_cells_speck_end'
  '_cells_row_end'
  '_cells_row_begin'
  '_cells_speck_begin' '30%'
- '_picture' '/media/user/79bb3e49-6ff0-4ff6-b1fd-696cbde468f4/fs/mirage335_author/zzLib_800-documents/../zzLib_895-reference/demo/commonControlScheme.png' '98%'
+ '_picture' '../../../../zzLib_895-reference/demo/toroidFormer.png' '98%'
  '_cells_speck_end'
  '_cells_speck_begin' '30%'
- '_picture' '/media/user/79bb3e49-6ff0-4ff6-b1fd-696cbde468f4/fs/mirage335_author/zzLib_800-documents/../zzLib_895-reference/demo/referenceImplementations.png' '98%'
+ '_picture' '../../../../zzLib_895-reference/demo/Antenna.jpg' '98%'
  '_cells_speck_end'
  '_cells_speck_begin' '30%'
- '_picture' '/media/user/79bb3e49-6ff0-4ff6-b1fd-696cbde468f4/fs/mirage335_author/zzLib_800-documents/../zzLib_895-reference/demo/PanelBoard.png' '98%'
+ '_picture' '../../../../zzLib_895-reference/demo/AllBandTest.png' '98%'
+ '_cells_speck_end'
+ '_cells_row_end'
+ '_cells_row_begin'
+ '_cells_speck_begin' '30%'
+ '_picture' '../../../../zzLib_895-reference/demo/commonControlScheme.png' '98%'
+ '_cells_speck_end'
+ '_cells_speck_begin' '30%'
+ '_picture' '../../../../zzLib_895-reference/demo/referenceImplementations.png' '98%'
+ '_cells_speck_end'
+ '_cells_speck_begin' '30%'
+ '_picture' '../../../../zzLib_895-reference/demo/PanelBoard.png' '98%'
  '_cells_speck_end'
  '_cells_row_end'
  '_cells_end'
- '_page' ' '
-PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak
-		
+
+ '_page' ' 'PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak
+
  '_cells_begin'
  '_cells_row_begin'
  '_cells_speck_begin' '30%'
- '_picture' '/media/user/79bb3e49-6ff0-4ff6-b1fd-696cbde468f4/fs/mirage335_author/zzLib_800-documents/../zzLib_895-reference/demo/zipTiePanel-box.jpg' '98%'
+ '_picture' '../../../../zzLib_895-reference/demo/zipTiePanel-box.jpg' '98%'
  '_cells_speck_end'
  '_cells_speck_begin' '30%'
- '_picture' '/media/user/79bb3e49-6ff0-4ff6-b1fd-696cbde468f4/fs/mirage335_author/zzLib_800-documents/../zzLib_895-reference/demo/zipTiePanel-splices.jpg' '98%'
+ '_picture' '../../../../zzLib_895-reference/demo/zipTiePanel-splices.jpg' '98%'
  '_cells_speck_end'
  '_cells_speck_begin' '30%'
- '_picture' '/media/user/79bb3e49-6ff0-4ff6-b1fd-696cbde468f4/fs/mirage335_author/zzLib_800-documents/../zzLib_895-reference/demo/Render-Cabling-Front.png' '98%'
+ '_picture' '../../../../zzLib_895-reference/demo/Render-Cabling-Front.png' '98%'
  '_cells_speck_end'
  '_cells_row_end'
  '_cells_row_begin'
  '_cells_speck_begin' '30%'
- '_picture' '/media/user/79bb3e49-6ff0-4ff6-b1fd-696cbde468f4/fs/mirage335_author/zzLib_800-documents/../zzLib_895-reference/demo/Blocks.png' '98%'
+ '_picture' '../../../../zzLib_895-reference/demo/Blocks.png' '98%'
  '_cells_speck_end'
  '_cells_speck_begin' '30%'
- '_picture' '/media/user/79bb3e49-6ff0-4ff6-b1fd-696cbde468f4/fs/mirage335_author/zzLib_800-documents/../zzLib_895-reference/demo/Code.png' '98%'
+ '_picture' '../../../../zzLib_895-reference/demo/Code.png' '98%'
  '_cells_speck_end'
  '_cells_speck_begin' '30%'
- '_picture' '/media/user/79bb3e49-6ff0-4ff6-b1fd-696cbde468f4/fs/mirage335_author/zzLib_800-documents/../zzLib_895-reference/demo/Render-Cabling-Back.png' '98%'
+ '_picture' '../../../../zzLib_895-reference/demo/Render-Cabling-Back.png' '98%'
  '_cells_speck_end'
  '_cells_row_end'
  '_cells_end'
- '_image' '/media/user/79bb3e49-6ff0-4ff6-b1fd-696cbde468f4/fs/mirage335_author/zzLib_800-documents/../zzLib_895-reference/demo/flightSim.jpg' '95%'
- '_picture' '/media/user/79bb3e49-6ff0-4ff6-b1fd-696cbde468f4/fs/mirage335_author/zzLib_800-documents/../zzLib_895-reference/emblems/businessCard_mirage335_pcb.png' '40%'
+ '_image' '../../../../zzLib_895-reference/demo/flightSim.jpg' '95%'
+ '_picture' '../../../../zzLib_895-reference/emblems/businessCard_mirage335_pcb.png' '40%'
+
 ___ Industrial Computerized Numerical Control (CNC) Platforms ___
 Designing, building, and operating a growing base of industrial Computerized Numerical Control (CNC) platforms.
 
@@ -345,6 +375,7 @@ https://github.com/mirage335/TazIntermediate
 
 https://github.com/mirage335/RigidTable
 https://github.com/mirage335/TazStiff/blob/master/Table/Table.fcstd
+
 ___ PrusaMendel ___
 Collaboratively, have upgraded rigidity, lifespan, and usability for HacDC&#39;s Prusa Mendel 3D Printer. Responsible for more than half the printer&#39;s parts, through upgrades over a three year period, as well as for the printer remaining operational. Maintenance has included documentation, extruder fabrication, CNC milling stronger parts, spool holder fabrication, complete print-surface re-engineering, and eliminating manual priming from the printing process. Special thanks to Julia Longtin for timely parts and debugging assistance, and mentorship.
 
@@ -356,6 +387,7 @@ https://www.youtube.com/watch?v=JsSndSXFl8M
 https://wiki.hacdc.org/index.php/Category:PrusaMendel
 
 http://www.hacdc.org/2015/03/10/hacdc-wins-lulzbot-mini-3d-printer-hackerspace-giveaway/
+
 ___ Biosignal Amplifier ___
 Animals (including humans) produce weak electrical signals, as hearts beat, muscles move, and neurons fire. Using all the best techniques and components, a uniquely low-noise high-dynamic-range biosignal amplifier has been achieved to pull out even the weakest biosignals for research purposes. Mirage335BiosignalAmp employs new research on low-noise amplifier chips and extensive measures to reject external noise such as feedback AC coupling, driven shields, and active probes. An ArduinoDAQ, 24bit ADC, is also onboard, paired with high-order digital IIR filters efficient enough to run in real-time on AVR (ie. Arduino) microcontrollers before handing off the raw audio format data through USB connection.
 
@@ -363,23 +395,28 @@ Complete schematics, PCBs, BOMs, documentation, repositories, and investor list,
 Special thanks to Shawn Nock for creating oshpark conversion script, having inspired &#39;GEDAProduction&#39; and later &#39;gEDA_designer&#39;, generating a variety of PCB related fabrication assets (eg. CAD models, gerber files, BOM, PDF photomasks).
 
 https://wiki.hacdc.org/index.php/Category:BiosignalAmplifier
+
 ___ TestCart ___
 Built up HacDC&#39;s test equipment cart to handle almost any electronics design problem, through self-built hardware, salvaged components, recommended purchases, and efficient cart layout. Among other things, capabilities were broad enough to construct superheterodyne HF receivers in a few minutes just by connecting equipment with BNC cables. After serving many useful purposes for a long time, unfortunately was disassembled due to temporary disuse and pressing need for floor space. Until then, this was most likely the most complete publicly available electronics test facility at or near the US East Coast.
 
 https://wiki.hacdc.org/index.php/Category:TestCart
+
 ___ 30MHz_LowPass ___
 
 Air-core toroid, extremely high performance DC-HF preselection filter for extremely high dynamic range upconverting superheterodyne radios. Functional, tested, and using robust 3D printed electrical components of own manufacture.
+
 ___ Antenna ___
 As a HacDC project, provided worldwide HF (shortwave) amateur radio communication, having served as the club&#39;s primary antenna for at least three years. This replaced an antenna remote amateur radio operator receivers confirmed as inoperable for transmission. Testing a variety of antennas in a rural open field demonstrated a 20m quarter-wave (5m height) vertical monopole antenna was most suitable. With an SGC-237 autotuner, all-band coverage from 1.8MHz to 29.7MHz has been available, meeting the requirements for automatic link establishment.
 
 http://en.wikipedia.org/wiki/Automatic_link_establishment
 https://www.hacdc.org/2012/08/17/new-amateur-radio-antenna/
+
 ___ AudioToResistance ___
 Collaboratively worked with Project Byzantium development team at HacDC to trigger Push-To-Talk radio inputs using only energy received from audio line-level signals. Enables high-speed data transmission across VHF/UHF amateur radio technology, requiring only low-cost &#39;handie talkies&#39; as transceivers. Assistance provided included several schematic designs and CNC milled PCBs in one night.
 
 http://project-byzantium.org/
 https://github.com/HacDC/AudioToResistance/blob/master/Basic.sch.png
+
 ___ Web Services ___
 Hosted at HacDC, using servers Shimmer, Starlight, and Nebula. Personally setup and shared with the community. After serving useful purposes, especially VPS hosting for HacDC members, unfortunately defunct due to eroding physical hosting space and ISP changes. Reuse, donation to another hackerspace, or salvage, are all possible, as the components remain relevant, valuable, and especially reliable (notably having been manufacturered near the end of server exemption from RoHS).
 
@@ -387,15 +424,18 @@ http://hacdc.org/
 https://wiki.hacdc.org/index.php/Shimmer
 https://wiki.hacdc.org/index.php/Starlight
 https://wiki.hacdc.org/index.php/Nebula
+
 ___ Flight Sim ___
 
 Proficient (at least when not out of practice) in DCS World with FA18C and other simulated aircraft including F16C, to the point of complete startup procedures, avionics use, night carrier landings, formation flying, approach plates, etc. Partly used to perfect the &#39;commonControlScheme&#39; single-stick compatible HOTAS specification, and alternative voice commands, carefully provisioned for mapping of all controls to buttons and axes for a much wider variety of tools and vehicles .
+
 ___ BusinessCard ___
 
 Custom graphics. Only the satellite, antenna, clouds, stars, are clipart from OpenClipArt or Inkscape. All other work is an original design. Actual cards are color laser printed as seamless 12 card panels, then depanelized by HacDC&#39;s 40W CO2 laser cutter (and later Makersmiths&#39;s CO2 laser cutter).
- '_page' ' '
-PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak
-		
+
+ '_page' ' 'PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak
+
+
 __ Formal Qualifications __
 Self Taught, Aggressively
 
@@ -421,7 +461,9 @@ UMUC
 	GPA 4.0, Summa Cum Laude
 	Bachelor&#39;s of Science (Psychology) Degree
 	Computer Science Minor
+
 __ POLICY __
+
 ___ Copyleft ___
 
 Default - Public Doman
@@ -453,10 +495,12 @@ For compatibility with Wikipedia, in addition to any other (ie. public domain or
 DISCOURAGED - GPLv2
 GPLv2 is questionable, as accidental violation of the GPLv2 can cause massive problems for large projects, and usual text for GPLv2 may not include provisions to allow relicensing by any &#39;later version&#39;. Case in point: it would be "technically quite hard" (Linus Torvalds) to dual license the Linux kernel.
 http://www.gnu.org/licenses/quick-guide-gplv3.html
+
 ___ Authentication ___
 Authentication without encryption is reasonable in some situations by limiting transaction rates, by physical location/direction, and by revocation of multiple logins. By contrast, relying on encrypted logins by HTTPS/SSL, has a history of severe weaknesses, plaintext emissions, timing analysis, side-channel analysis, and official amateur radio incompatibility.
 
 Plain HTTP may be used whenever possible. At all times (even as part of encrypted login web pages), some filetypes (particularly images) may remain unencrypted (eg. if served by CoralCDN).
+
 ___ RoHS ___
 RoHS ban of leaded solder is of negligible benefit and substantial harm whereas a tax may have been more reasonable. Little change in environmental lead from bulk uses could reasonably be expected, and unintended consequences are severe.
 
@@ -469,10 +513,12 @@ RoHS ban of leaded solder is of negligible benefit and substantial harm whereas 
 *) Data loss unpreventable due simultaneous tin whisker bridging failures including unintended simultaneous overwriting of multiple RAID arrays.
 
 For the future, all industries must be wary of provoking such a ban instead of a more reasonable tax, as a consequence of any perceived irresponsibility on their part.
+
 _ Copyright _
 
 AGPLv3
 Unusual exception for specific complete binary files as described by license notice.
+
 __ License Notice __
 [0;37;100mmirage335_author[0m
 [0;37;100mCopyright (C) 2021,2022-  mirage335[0m

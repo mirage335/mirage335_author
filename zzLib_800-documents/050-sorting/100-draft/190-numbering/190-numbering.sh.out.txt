@@ -1,4 +1,6 @@
+
 _ Numbering _
+
 __ Components __
 _lib	- software, records, etc, typically uniquely needed by specific CAD model
 
@@ -99,6 +101,7 @@ to
 
 99[00]-import
 	RESERVED for future use
+
 __ Functions __
 Please regard as a loose specification intended to offer unallocated regions for expansion and subordinate to any improvements that may be found in actual implementations.
 

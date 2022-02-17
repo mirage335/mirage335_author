@@ -123,8 +123,8 @@ _heading1 'Matthew "mirage335" Hines'
 _t 'Maximum performance solutions.
 
 '
-_picture "$zzLib_895_reference"/demo/TazStiff_owner.jpg "45%"
-_image "$zzLib_895_reference"/demo/mrocks.jpg "45%"
+_picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/TazStiff_owner.jpg) "45%"
+_image $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/mrocks.jpg) "45%"
 _heading2 'Communication'
 _t '
 IRC WebChat: http://webchat.freenode.net/?channels=%23%23mirage335
@@ -377,21 +377,21 @@ _heading2 'Projects'
 
 _t 'Assortment of side projects. Some continue as substantially important resources, others as expended resources having fulfilled a useful purpose and exemplified principles for future work.'
 
-_picture "$zzLib_895_reference"/facilities/workbench.jpg "25%"
-#_image "$zzLib_895_reference"/facilities/vr_workstation.jpg "65%"
-_image "$zzLib_895_reference"/facilities/facilities-vrWorkstation-more.jpg "70%"
+_picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/facilities/workbench.jpg) "25%"
+#_image $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/facilities/vr_workstation.jpg) "65%"
+_image $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/facilities/facilities-vrWorkstation-more.jpg) "70%"
 
 _cells_begin
 
 _cells_row_begin
 _cells_speck_begin "30%"
-_picture "$zzLib_895_reference"/demo/MightyTool.jpg "98%"
+_picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/MightyTool.jpg) "98%"
 _cells_speck_end
 _cells_speck_begin "30%"
-_picture "$zzLib_895_reference"/demo/04-RigidTableAssembly.jpg "98%"
+_picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/04-RigidTableAssembly.jpg) "98%"
 _cells_speck_end
 _cells_speck_begin "30%"
-_picture "$zzLib_895_reference"/demo/02-PrecisionEngraveTest.jpg "98%"
+_picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/02-PrecisionEngraveTest.jpg) "98%"
 _cells_speck_end
 _cells_row_end
 
@@ -402,49 +402,49 @@ _cells_begin
 
 _cells_row_begin
 _cells_speck_begin "30%"
-_picture "$zzLib_895_reference"/demo/500px-PrusaMendelPresent.jpg "98%"
+_picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/500px-PrusaMendelPresent.jpg) "98%"
 _cells_speck_end
 _cells_speck_begin "30%"
-_picture "$zzLib_895_reference"/demo/TestCartStylish.jpg "98%"
+_picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/TestCartStylish.jpg) "98%"
 _cells_speck_end
 _cells_speck_begin "30%"
-_picture "$zzLib_895_reference"/demo/OccupancySensor.jpg "98%"
-_cells_speck_end
-_cells_row_end
-
-_cells_row_begin
-_cells_speck_begin "30%"
-_picture "$zzLib_895_reference"/PatchRap/PatchRap.jpg "98%"
-_cells_speck_end
-_cells_speck_begin "30%"
-_picture "$zzLib_895_reference"/demo/02-heartbeat.jpg "98%"
-_cells_speck_end
-_cells_speck_begin "30%"
-_picture "$zzLib_895_reference"/demo/08-AlphaWavesLowRes.jpg "98%"
+_picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/OccupancySensor.jpg) "98%"
 _cells_speck_end
 _cells_row_end
 
 _cells_row_begin
 _cells_speck_begin "30%"
-_picture "$zzLib_895_reference"/demo/toroidFormer.png "98%"
+_picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/PatchRap/PatchRap.jpg) "98%"
 _cells_speck_end
 _cells_speck_begin "30%"
-_picture "$zzLib_895_reference"/demo/Antenna.jpg "98%"
+_picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/02-heartbeat.jpg) "98%"
 _cells_speck_end
 _cells_speck_begin "30%"
-_picture "$zzLib_895_reference"/demo/AllBandTest.png "98%"
+_picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/08-AlphaWavesLowRes.jpg) "98%"
 _cells_speck_end
 _cells_row_end
 
 _cells_row_begin
 _cells_speck_begin "30%"
-_picture "$zzLib_895_reference"/demo/commonControlScheme.png "98%"
+_picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/toroidFormer.png) "98%"
 _cells_speck_end
 _cells_speck_begin "30%"
-_picture "$zzLib_895_reference"/demo/referenceImplementations.png "98%"
+_picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/Antenna.jpg) "98%"
 _cells_speck_end
 _cells_speck_begin "30%"
-_picture "$zzLib_895_reference"/demo/PanelBoard.png "98%"
+_picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/AllBandTest.png) "98%"
+_cells_speck_end
+_cells_row_end
+
+_cells_row_begin
+_cells_speck_begin "30%"
+_picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/commonControlScheme.png) "98%"
+_cells_speck_end
+_cells_speck_begin "30%"
+_picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/referenceImplementations.png) "98%"
+_cells_speck_end
+_cells_speck_begin "30%"
+_picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/PanelBoard.png) "98%"
 _cells_speck_end
 _cells_row_end
 
@@ -456,25 +456,25 @@ _cells_begin
 
 _cells_row_begin
 _cells_speck_begin "30%"
-_picture "$zzLib_895_reference"/demo/zipTiePanel-box.jpg "98%"
+_picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/zipTiePanel-box.jpg) "98%"
 _cells_speck_end
 _cells_speck_begin "30%"
-_picture "$zzLib_895_reference"/demo/zipTiePanel-splices.jpg "98%"
+_picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/zipTiePanel-splices.jpg) "98%"
 _cells_speck_end
 _cells_speck_begin "30%"
-_picture "$zzLib_895_reference"/demo/Render-Cabling-Front.png "98%"
+_picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/Render-Cabling-Front.png) "98%"
 _cells_speck_end
 _cells_row_end
 
 _cells_row_begin
 _cells_speck_begin "30%"
-_picture "$zzLib_895_reference"/demo/Blocks.png "98%"
+_picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/Blocks.png) "98%"
 _cells_speck_end
 _cells_speck_begin "30%"
-_picture "$zzLib_895_reference"/demo/Code.png "98%"
+_picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/Code.png) "98%"
 _cells_speck_end
 _cells_speck_begin "30%"
-_picture "$zzLib_895_reference"/demo/Render-Cabling-Back.png "98%"
+_picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/Render-Cabling-Back.png) "98%"
 _cells_speck_end
 _cells_row_end
 
@@ -485,16 +485,16 @@ _cells_end
 _ _cells_begin
 _ _cells_row_begin
 _ _cells_speck_begin "75%"
-_ _picture "$zzLib_895_reference"/demo/flightSim.jpg "98%"
+_ _picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/flightSim.jpg) "98%"
 _ _cells_speck_end
 _ _cells_speck_begin "20%"
-_ _picture "$zzLib_895_reference"/emblems/businessCard_mirage335_pcb.png "98%"
+_ _picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/emblems/businessCard_mirage335_pcb.png) "98%"
 _ _cells_speck_end
 _ _cells_row_end
 _ _cells_end
 
-_image "$zzLib_895_reference"/demo/flightSim.jpg "95%"
-_picture "$zzLib_895_reference"/emblems/businessCard_mirage335_pcb.png "40%"
+_image $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/flightSim.jpg) "95%"
+_picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/emblems/businessCard_mirage335_pcb.png) "40%"
 
 _heading3 'Industrial Computerized Numerical Control (CNC) Platforms'
 _t 'Designing, building, and operating a growing base of industrial Computerized Numerical Control (CNC) platforms.

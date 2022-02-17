@@ -1,7 +1,9 @@
+
 _ Copyright _
 
 AGPLv3
 Unusual exception for specific complete binary files as described by license notice.
+
 __ License Notice __
 [0;37;100mmirage335_author[0m
 [0;37;100mCopyright (C) 2021,2022-  mirage335[0m

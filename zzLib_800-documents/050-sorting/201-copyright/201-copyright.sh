@@ -99,12 +99,19 @@ export fromDocuments_boilerplateDisclaimer=$(cat "$zzLib_800_documents_____boile
 
 
 _o-small-html() {
-	_safeEcho_quoteAddSingle "$currentFunctionName" "$@"
-	_safeEcho_newline
+	if ( [[ "$current_scriptedIllustrator_markup" == "html" ]] || [[ "$current_scriptedIllustrator_markup" == "mediawiki" ]] )
+	then
+		_safeEcho_quoteAddSingle "$currentFunctionName" "$@"
+		_safeEcho_newline
+	fi
 	
 	
-	echo "$interpret__html_NOT_shell__begin"
-	#echo "$markup_html_cmd_begin"
+	if ( [[ "$current_scriptedIllustrator_markup" == "html" ]] || [[ "$current_scriptedIllustrator_markup" == "mediawiki" ]] )
+	then
+		echo "$interpret__html_NOT_shell__begin"
+		#echo "$markup_html_cmd_begin"
+	fi
+	
 	echo "$workaround_shellPrependMarkupLines"'<pre style="-webkit-print-color-adjust: exact;margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;font-size: 0.70em;">'
 	
 	local current_miniSessionID=$(_uid 8)
@@ -116,15 +123,22 @@ _o-small-html() {
 	
 	"$@" | _workaround_preformattedCharacters-html | _workaround_shellPrependMarkupLines
 	
-	echo "$markup_html_cmd_end"
-	echo "$interpret__html_NOT_shell__end"
+	if ( [[ "$current_scriptedIllustrator_markup" == "html" ]] || [[ "$current_scriptedIllustrator_markup" == "mediawiki" ]] )
+	then
+		echo "$markup_html_cmd_end"
+		echo "$interpret__html_NOT_shell__end"
+	fi
+}
+
+_cat-workaround_preformatedCharacters-html-special() {
+	cat "$@" | sed "s/</\&lt;/g" | sed "s/>/\&gt;/g"
 }
 
 
 
 
-
-
+# ATTENTION: Unusual. Avoids absolute paths reading copyright license files with complicated punctuation.
+cd "$scriptAbsoluteFolder"
 
 
 # NOTICE: COLLECT
@@ -145,10 +159,10 @@ Unusual exception for specific complete binary files as described by license not
 
 _heading2 'License Notice'
 
-_o cat "$scriptLib"/license.txt
+_o _cat-workaround_preformatedCharacters-html-special ./_lib/license.txt
 
 _ _heading2 'License Text'
-_ _o-small-html cat "$scriptLib"/agpl-3.0.txt
+_ _o-small-html _cat-workaround_preformatedCharacters-html-special ./_lib/agpl-3.0.txt
 
 
 
