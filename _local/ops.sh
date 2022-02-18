@@ -85,6 +85,7 @@ _consolidate_documents() {
 	#<!-- https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server -->
 	#<!-- python3 -m http.server 7800 -->
 	echo '<!DOCTYPE html>' > "$scriptAbsoluteFolder"/index.html
+	echo '<link rel="icon" type="image/png" href="favicon.ico"/>' >> "$scriptAbsoluteFolder"/index.html
 	echo 'exit' >> "$scriptAbsoluteFolder"/index.html
 	echo "<script type="text/javascript"> document.body.innerHTML = ''; </script>" >> "$scriptAbsoluteFolder"/index.html
 	echo '<!-- DANGER: WARNING: Do NOT edit, do NOT use as shell script. Concatenated. Although self-modifying features may be present, this entire file is NOT properly self-modifying. -->' >> "$scriptAbsoluteFolder"/index.html
