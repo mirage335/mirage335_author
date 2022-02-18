@@ -214,40 +214,9 @@ much appreciated also.
 If communications are somehow saturated, or many opportunities arise, 
 priority will go to people who can help make progress on the &#39;roadmap 
 and timeline&#39; under the 
-&#39;UniversalTechnologySpecificationTextbook&#39; (&#39;uTST&#39;) .
+&#39;universalTechnologySpecificationTextbook&#39; (&#39;uTST&#39;) .
 
 More information (eg. unpublished email addresses) available on request.
-<!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
-'
- '_heading2' 'Direction'
-if false; then true; # -->
-<!-- # --><h2>Direction</h2>
-<!--
-fi
-_t '
-scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">Helpful individuals or organizations are invited to participate.
-
-
-Winners at the game of life bring the fullest diversity and quality to more 
-players.
-
-
-A transition from no wealth (ie. biological competence, what animals are 
-born with), through wealth living on us (ie. creating technological tools), 
-to us living on and once again independent of wealth (ie. technological 
-competence, everyone born with the benefits of &#39;self-driving AI&#39;). 
-
-Eventually, while we still can before this universe ends in chaos, we must 
-mostly fill that universe with unfettered opportunity. Eventually, we must 
-be allowed uninterrupted, immersive, unlobotomized lives of our choosing 
-with no limits whatsoever on our own forms, associations, experiences, 
-cravings, desires, virtual reality, or neural interfaces.
-
-
-My goal was and will long remain the widest possible empowerment - the 
-expedient transition from no wealth, through living on wealth, to the 
-unlimited wealth of self-driving AI for all to experience whatever life 
-however they may wish.
 <!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
 '
  '_heading2' 'Diversity, Equity, Inclusiveness (DEI)'
@@ -271,11 +240,6 @@ interests and backgrounds are actually uniquely valuable and can in fact
 coexist in the same world and universe.
 <!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
 '
- '_page' ' '
-if false; then true; # -->
-<!-- # --><div style="page-break-before: always;margin: 0;padding: 0; border-width: 0px;"> </div>
-<!--
-fi
 _t '
 scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">Sometimes I, &#39;mirage335&#39;, have had the disappointment of witnessing 
 and hearing of seriously intentional biased derogatory remarks, explicitly 
@@ -290,6 +254,41 @@ Discovering such discouragement is difficult enough, tolerating such
 discouragement has no rational excuse.
 <!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
 '
+ '_page' ' '
+if false; then true; # -->
+<!-- # --><div style="page-break-before: always;margin: 0;padding: 0; border-width: 0px;"> </div>
+<!--
+fi
+ '_heading2' 'Direction'
+if false; then true; # -->
+<!-- # --><h2>Direction</h2>
+<!--
+fi
+_t '
+scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">Helpful individuals or organizations are invited to participate.
+
+Winners at the game of life bring the fullest diversity and quality to more 
+players.
+
+
+A transition from no wealth (ie. biological competence, what animals are 
+born with), through wealth living on us (ie. creating technological tools), 
+to us living on and once again independent of wealth (ie. technological 
+competence, everyone born with the benefits of &#39;self-driving AI&#39;).
+
+Eventually, while we still can before this universe ends in chaos, we must 
+mostly fill that universe with unfettered opportunity. Eventually, we must 
+be allowed uninterrupted, immersive, unlobotomized lives of our choosing 
+with no limits whatsoever on our own forms, associations, experiences, 
+cravings, desires, virtual reality, or neural interfaces.
+
+
+My goal was and will long remain the widest possible empowerment - the 
+expedient transition from no wealth, through living on wealth, to the 
+unlimited wealth of self-driving AI for all to experience whatever life 
+however they may wish.
+<!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
+'
  '_heading2' 'Strengths'
 if false; then true; # -->
 <!-- # --><h2>Strengths</h2>
@@ -301,9 +300,7 @@ with interprocess-communication within single filesystem directories.
 
 *) Legacy multiplatform (ie. MSW), cloud, virtualization, and 
 LiveCD/LiveUSB compatibility.
-
-*) Strategic planning, technical point-of-diminishing returns due diligence.
-
+*) Strategic planning, technical point-of-diminishing-returns due diligence.
 *) Extensively self-taught, accustomed to efficiently exploring uncharted 
 territory.
 <!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
@@ -326,6 +323,7 @@ http://www.hacdc.org/
 Official contact for SUPPLIES and EXPANSION funds.
 Network infrastructure for St.Stephens Church and tenants. Shell/VPS 
 servers for HacDC members.
+Represented both Makersmiths and HacDC at the "Nation of Makers" gathering.
 <!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
 '
  '_heading3' 'Imagnus Medical - Director of Engineering'

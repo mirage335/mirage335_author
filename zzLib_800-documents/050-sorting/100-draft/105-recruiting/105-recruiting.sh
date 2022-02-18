@@ -179,22 +179,10 @@ Typically available between 10:00-22:00 EDT and often beyond.
 
 Please *do* text, leave voicemail, call multiple times, contact through multiple channels (eg. both IRC and Discord), repeatedly send multiple emails, etc. Due to persistent automation spam everywhere, such proof of cognition is helpful. For everyone already regularly contancting me, bringing my attention to any new persons or opportunities, is always very much appreciated also.
 
-If communications are somehow saturated, or many opportunities arise, priority will go to people who can help make progress on the &#39;roadmap and timeline&#39; under the &#39;UniversalTechnologySpecificationTextbook&#39; (&#39;uTST&#39;) .
+If communications are somehow saturated, or many opportunities arise, priority will go to people who can help make progress on the &#39;roadmap and timeline&#39; under the &#39;universalTechnologySpecificationTextbook&#39; (&#39;uTST&#39;) .
 
 More information (eg. unpublished email addresses) available on request.'
-_heading2 'Direction'
-_t 'Helpful individuals or organizations are invited to participate.
 
-
-Winners at the game of life bring the fullest diversity and quality to more players.
-
-
-A transition from no wealth (ie. biological competence, what animals are born with), through wealth living on us (ie. creating technological tools), to us living on and once again independent of wealth (ie. technological competence, everyone born with the benefits of &#39;self-driving AI&#39;). 
-
-Eventually, while we still can before this universe ends in chaos, we must mostly fill that universe with unfettered opportunity. Eventually, we must be allowed uninterrupted, immersive, unlobotomized lives of our choosing with no limits whatsoever on our own forms, associations, experiences, cravings, desires, virtual reality, or neural interfaces.
-
-
-My goal was and will long remain the widest possible empowerment - the expedient transition from no wealth, through living on wealth, to the unlimited wealth of self-driving AI for all to experience whatever life however they may wish.'
 _heading2 'Diversity, Equity, Inclusiveness (DEI)'
 _t 'Author &#39;mirage335&#39; supports any reasonable path, valuing that many other persons have reasonable ideas, often adding new abilities and imagination.
 
@@ -202,21 +190,31 @@ For diversity, bring an apparently unique emphasis on pragmatism, possibilities,
 For equity, continue to unequivocally oppose and reverse any bias whenever credible evidence is found, as well as support others who find, oppose, or reverse, bias.
 For inclusiveness, press for the realization that people with different interests and backgrounds are actually uniquely valuable and can in fact coexist in the same world and universe.'
 
-_page ' ' ###
 _t 'Sometimes I, &#39;mirage335&#39;, have had the disappointment of witnessing and hearing of seriously intentional biased derogatory remarks, explicitly stated unwelcome harassment, imposition of limits, insinuation that non-conflicting private inclinations are public conflicts of interest. An individual&#39;s potential, contributions, and experience of life, is wholly distinct from any other attribute, group, behavior. Any bias otherwise only causes harm, is irrational as such, and discourages productive individuals who will notice.
 
 Discovering such discouragement is difficult enough, tolerating such discouragement has no rational excuse.'
 
 
+_page ' ' ###
+_heading2 'Direction'
+_t 'Helpful individuals or organizations are invited to participate.
+
+Winners at the game of life bring the fullest diversity and quality to more players.
+
+
+A transition from no wealth (ie. biological competence, what animals are born with), through wealth living on us (ie. creating technological tools), to us living on and once again independent of wealth (ie. technological competence, everyone born with the benefits of &#39;self-driving AI&#39;).
+
+Eventually, while we still can before this universe ends in chaos, we must mostly fill that universe with unfettered opportunity. Eventually, we must be allowed uninterrupted, immersive, unlobotomized lives of our choosing with no limits whatsoever on our own forms, associations, experiences, cravings, desires, virtual reality, or neural interfaces.
+
+
+My goal was and will long remain the widest possible empowerment - the expedient transition from no wealth, through living on wealth, to the unlimited wealth of self-driving AI for all to experience whatever life however they may wish.'
 
 
 _heading2 'Strengths'
 _t '*) Robust containment of complete hardware and software design toolchains with interprocess-communication within single filesystem directories.
 
 *) Legacy multiplatform (ie. MSW), cloud, virtualization, and LiveCD/LiveUSB compatibility.
-
-*) Strategic planning, technical point-of-diminishing returns due diligence.
-
+*) Strategic planning, technical point-of-diminishing-returns due diligence.
 *) Extensively self-taught, accustomed to efficiently exploring uncharted territory.'
 
 
@@ -227,7 +225,8 @@ _t 'May2012 - May2021
 http://www.hacdc.org/
 
 Official contact for SUPPLIES and EXPANSION funds.
-Network infrastructure for St.Stephens Church and tenants. Shell/VPS servers for HacDC members.'
+Network infrastructure for St.Stephens Church and tenants. Shell/VPS servers for HacDC members.
+Represented both Makersmiths and HacDC at the "Nation of Makers" gathering.'
 _heading3 'Imagnus Medical - Director of Engineering'
 _t 'Feb2013 - Present
 
