@@ -502,7 +502,7 @@ _cells_speck_begin "30%"
 _picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/zipTiePanel-splices.jpg) "98%"
 _cells_speck_end
 _cells_speck_begin "30%"
-_picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/Render-Cabling-Front.png) "98%"
+_picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/Render-Cabling-Front.jpg) "98%"
 _cells_speck_end
 _cells_row_end
 
@@ -514,7 +514,7 @@ _cells_speck_begin "30%"
 _picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/Code.png) "98%"
 _cells_speck_end
 _cells_speck_begin "30%"
-_picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/Render-Cabling-Back.png) "98%"
+_picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/Render-Cabling-Back.jpg) "98%"
 _cells_speck_end
 _cells_row_end
 

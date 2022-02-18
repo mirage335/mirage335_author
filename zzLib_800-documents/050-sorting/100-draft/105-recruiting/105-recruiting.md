@@ -1096,9 +1096,9 @@ if false; then true; # -->
 <!-- # --><td width="30%" colspan="1" style="border-spacing: 0px; border: 1px solid black; margin-top: 0px; vertical-align: top;">
 <!--
 fi
- '_picture' '../../../../zzLib_895-reference/demo/Render-Cabling-Front.png' '98%'
+ '_picture' '../../../../zzLib_895-reference/demo/Render-Cabling-Front.jpg' '98%'
 if false; then true; # -->
-<!-- # --><img width="98%" src="../../../../zzLib_895-reference/demo/Render-Cabling-Front.png" style="float: right;margin: 0 0 0 15px;border: 5px solid transparent;">
+<!-- # --><img width="98%" src="../../../../zzLib_895-reference/demo/Render-Cabling-Front.jpg" style="float: right;margin: 0 0 0 15px;border: 5px solid transparent;">
 <!--
 fi
  '_cells_speck_end'
@@ -1151,9 +1151,9 @@ if false; then true; # -->
 <!-- # --><td width="30%" colspan="1" style="border-spacing: 0px; border: 1px solid black; margin-top: 0px; vertical-align: top;">
 <!--
 fi
- '_picture' '../../../../zzLib_895-reference/demo/Render-Cabling-Back.png' '98%'
+ '_picture' '../../../../zzLib_895-reference/demo/Render-Cabling-Back.jpg' '98%'
 if false; then true; # -->
-<!-- # --><img width="98%" src="../../../../zzLib_895-reference/demo/Render-Cabling-Back.png" style="float: right;margin: 0 0 0 15px;border: 5px solid transparent;">
+<!-- # --><img width="98%" src="../../../../zzLib_895-reference/demo/Render-Cabling-Back.jpg" style="float: right;margin: 0 0 0 15px;border: 5px solid transparent;">
 <!--
 fi
  '_cells_speck_end'
