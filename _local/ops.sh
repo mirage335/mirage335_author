@@ -76,6 +76,28 @@ _consolidate_documents() {
 	_recompress_pdf "$scriptBundle"/document-recruiting-complete.pdf
 	
 	
+	
+	
+	
+	#<!-- https://www.w3schools.com/howto/howto_html_include.asp -->
+	#<!-- https://stackoverflow.com/questions/8988855/include-another-html-file-in-a-html-file -->
+	#<!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS/Errors/CORSRequestNotHttp -->
+	#<!-- https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server -->
+	#<!-- python3 -m http.server 7800 -->
+	echo '<!DOCTYPE html>' > "$scriptAbsoluteFolder"/index.html
+	echo 'exit' >> "$scriptAbsoluteFolder"/index.html
+	echo "<script type="text/javascript"> document.body.innerHTML = ''; </script>" >> "$scriptAbsoluteFolder"/index.html
+	echo '<!-- DANGER: WARNING: Do NOT edit, do NOT use as shell script. Concatenated. Although self-modifying features may be present, this entire file is NOT properly self-modifying. -->' >> "$scriptAbsoluteFolder"/index.html
+	cat "$scriptAbsoluteFolder"/zzLib_800-documents/050-sorting/100-draft/100-biography/100-biography_presentation.html \
+	"$scriptAbsoluteFolder"/zzLib_800-documents/050-sorting/100-draft/105-recruiting/105-recruiting.html \
+	"$scriptAbsoluteFolder"/zzLib_800-documents/050-sorting/100-draft/105-recruiting/105-recruiting-errata.html >> "$scriptAbsoluteFolder"/index.html
+	sed -i 's/..\/..\/..\/..\/..\/..\/zzLib_895-reference/zzLib_895-reference/g' "$scriptAbsoluteFolder"/index.html
+	sed -i 's/..\/..\/..\/..\/..\/zzLib_895-reference/zzLib_895-reference/g' "$scriptAbsoluteFolder"/index.html
+	sed -i 's/..\/..\/..\/..\/zzLib_895-reference/zzLib_895-reference/g' "$scriptAbsoluteFolder"/index.html
+	sed -i 's/..\/..\/..\/zzLib_895-reference/zzLib_895-reference/g' "$scriptAbsoluteFolder"/index.html
+	sed -i 's/..\/..\/zzLib_895-reference/zzLib_895-reference/g' "$scriptAbsoluteFolder"/index.html
+	sed -i 's/..\/zzLib_895-reference/zzLib_895-reference/g' "$scriptAbsoluteFolder"/index.html
+	
 	echo _____
 	sleep 20
 }
