@@ -167,14 +167,21 @@ _picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_refe
 _image $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/mrocks.jpg) "45%"
 _heading2 'Communication'
 _t '
-IRC WebChat: http://webchat.freenode.net/?channels=%23%23mirage335
-Discord:
+IRC WebChat: https://kiwiirc.com/nextclient/irc.libera.chat/##mirage335
+Discord: https://discord.gg/Tm9Am8Yt
+Patreon: https://www.patreon.com/mirage335
+YouTube: https://www.youtube.com/channel/UC-hYbYGjhQdoF18U5VRUH9g
+Github: https://github.com/mirage335
 Email: spamfreemirage335 &#39; a T&#39; gmail &#39;dot &#39; com
 Phone: 1-301-660-6414
 
 Typically available between 10:00-22:00 EDT and often beyond.
 
-More information available on request.'
+Please *do* text, leave voicemail, call multiple times, contact through multiple channels (eg. both IRC and Discord), repeatedly send multiple emails, etc. Due to persistent automation spam everywhere, such proof of cognition is helpful. For everyone already regularly contancting me, bringing my attention to any new persons or opportunities, is always very much appreciated also.
+
+If communications are somehow saturated, or many opportunities arise, priority will go to people who can help make progress on the &#39;roadmap and timeline&#39; under the &#39;UniversalTechnologySpecificationTextbook&#39; (&#39;uTST&#39;) .
+
+More information (eg. unpublished email addresses) available on request.'
 _heading2 'Direction'
 _t 'Helpful individuals or organizations are invited to participate.
 
