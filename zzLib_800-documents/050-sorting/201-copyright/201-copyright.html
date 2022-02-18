@@ -1,3 +1,4 @@
+# <html style="size: letter;"> <!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
 #!/usr/bin/env bash
 
 # Dependencies.
@@ -89,25 +90,61 @@ export fromDocuments_boilerplateDisclaimer=$(cat "$zzLib_800_documents_____boile
 
 
 
-export fromSelfFolder_components=$(cat "$scriptLib"/components.txt 2>/dev/null)
-export fromSelfFolder_functions=$(cat "$scriptLib"/functions.txt 2>/dev/null)
+
+#export fromSelfFolder_license=$(cat "$scriptLib"/license.txt 2>/dev/null)
+#export fromSelfFolder_agplv3=$(cat "$scriptLib"/agpl-3.0.txt 2>/dev/null)
+#export fromSelfFolder_gplv3=$(cat "$scriptLib"/gpl-3.0.txt 2>/dev/null)
 
 
 
 
 
+_o-small-html() {
+	if ( [[ "$current_scriptedIllustrator_markup" == "html" ]] || [[ "$current_scriptedIllustrator_markup" == "mediawiki" ]] )
+	then
+		_safeEcho_quoteAddSingle "$currentFunctionName" "$@"
+		_safeEcho_newline
+	fi
+	
+	
+	if ( [[ "$current_scriptedIllustrator_markup" == "html" ]] || [[ "$current_scriptedIllustrator_markup" == "mediawiki" ]] )
+	then
+		echo "$interpret__html_NOT_shell__begin"
+		#echo "$markup_html_cmd_begin"
+	fi
+	
+	echo "$workaround_shellPrependMarkupLines"'<pre style="-webkit-print-color-adjust: exact;margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;font-size: 0.70em;">'
+	
+	local current_miniSessionID=$(_uid 8)
+	
+	#_messagePlain_probe_quoteAddSingle "$@" | _workaround_shellPrependMarkupLines
+	
+	
+	# | _shellCommentLines
+	
+	"$@" | _workaround_preformattedCharacters-html | _workaround_shellPrependMarkupLines
+	
+	if ( [[ "$current_scriptedIllustrator_markup" == "html" ]] || [[ "$current_scriptedIllustrator_markup" == "mediawiki" ]] )
+	then
+		echo "$markup_html_cmd_end"
+		echo "$interpret__html_NOT_shell__end"
+	fi
+}
+
+_cat-workaround_preformatedCharacters-html-special() {
+	cat "$@" | sed "s/</\&lt;/g" | sed "s/>/\&gt;/g"
+}
 
 
 
 
-
-
-
-
+# ATTENTION: Unusual. Avoids absolute paths reading copyright license files with complicated punctuation.
+cd "$scriptAbsoluteFolder"
 
 
 # NOTICE: COLLECT
 }
+
 
 
 _document_main() {
@@ -115,13 +152,57 @@ _document_main() {
 #b
 # NOTICE: DOCUMENT
 #__HEADER_uk4uPhB663kVcygT0q_HEADER__
-_heading1 'Numbering'
+ '_heading1' 'Copyright'
+if false; then true; # -->
+<!-- # --><h1>Copyright</h1>
+<!--
+fi
+_t '
+scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">
+AGPLv3
+Unusual exception for specific complete binary files as described by license notice.
+<!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
+'
+ '_heading2' 'License Notice'
+if false; then true; # -->
+<!-- # --><h2>License Notice</h2>
+<!--
+fi
+ '_o' '_cat-workaround_preformatedCharacters-html-special' './_lib/license.txt'
+if false; then true; # -->
+<!-- # --><pre style="-webkit-print-color-adjust: exact;background-color:#848484;margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">
+<!-- # -->mirage335_author
+<!-- # -->Copyright (C) 2021,2022-  mirage335
+<!-- # -->
+<!-- # -->This program is free software; you can redistribute it and/or modify
+<!-- # -->it under the terms of the GNU Affero General Public License as published by
+<!-- # -->the Free Software Foundation; either version 3 of the License, or
+<!-- # -->(at your option) any later version.
+<!-- # -->
+<!-- # -->This program is distributed in the hope that it will be useful,
+<!-- # -->but WITHOUT ANY WARRANTY; without even the implied warranty of
+<!-- # -->MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+<!-- # -->GNU Affero General Public License for more details.
+<!-- # -->
+<!-- # -->You should have received a copy of the GNU Affero General Public License
+<!-- # -->along with this program; if not, write to the Free Software Foundation,
+<!-- # -->Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301  USA
+<!-- # -->
+<!-- # -->All files in this folder and subfolders, unless explicitly stated otherwise or copyrighted by other authors, are copyrighted by mirage335 as described above.
+<!-- # -->
+<!-- # -->
+<!-- # -->Unusually, specific binary PDF files (eg. "mirage335_author.pdf") clearly intended as a complete document (ie. NOT files normally included by 'pdfunite' or similar utilities) may ONLY be redistributed either in accordance this AGPLv3 license or if strictly complete, unmodified, except by normal and abundantly cautious variations in raster printing, independently. As such, complete printed copies of those specific complete unmodified files may be distrubited.
+<!-- # -->
+<!-- # -->Any HTML file used as a website must similarly distribute the associated source files - usually at 'https://github.com/mirage335/mirage335_author' or similar . Due to calls to 'cat' other files, and other structures, the HTML file itself, even if self-modifying, may NOT qualify as 'the preferred form of the work for making modifications to it' and may NOT qualify as 'source code'.
+<!-- # -->
+<!-- # --></pre>
+<!--
+fi
+ '_' '_heading2' 'License Text'
+ '_' '_o-small-html' '_cat-workaround_preformatedCharacters-html-special' './_lib/agpl-3.0.txt'
 
-_heading2 'Components'
-_v "$fromSelfFolder_components"
 
-_heading2 'Functions'
-_v "$fromSelfFolder_functions"
+
 #__FOOTER_uk4uPhB663kVcygT0q_FOOTER__
 # NOTICE: DOCUMENT
 #y
@@ -361,3 +442,4 @@ exit 0
 __ATTACHMENT_uk4uPhB663kVcygT0q_ATTACHMENT__
 
 
+filename.html # scriptedIllustrator_markup_uk4uPhB663kVcygT0q --> </html>

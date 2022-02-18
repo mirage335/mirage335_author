@@ -20,3 +20,5 @@ All files in this folder and subfolders, unless explicitly stated otherwise or c
 
 Unusually, specific binary PDF files (eg. "mirage335_author.pdf") clearly intended as a complete document (ie. NOT files normally included by 'pdfunite' or similar utilities) may ONLY be redistributed either in accordance this AGPLv3 license or if strictly complete, unmodified, except by normal and abundantly cautious variations in raster printing, independently. As such, complete printed copies of those specific complete unmodified files may be distrubited.
 
+Any HTML file used as a website must similarly distribute the associated source files - usually at 'https://github.com/mirage335/mirage335_author' or similar . Due to calls to 'cat' other files, and other structures, the HTML file itself, even if self-modifying, may NOT qualify as 'the preferred form of the work for making modifications to it' and may NOT qualify as 'source code'.
+

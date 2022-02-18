@@ -1,3 +1,4 @@
+# <html style="size: letter;"> <!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
 #!/usr/bin/env bash
 
 # Dependencies.
@@ -87,10 +88,9 @@ export fromDocuments_boilerplateDisclaimer=$(cat "$zzLib_800_documents_____boile
 
 
 
+export fromSelfFolder_something_pseudocode=$(cat "$scriptLib"/something_pseudocode.cpp 2>/dev/null)
 
-
-export fromSelfFolder_components=$(cat "$scriptLib"/components.txt 2>/dev/null)
-export fromSelfFolder_functions=$(cat "$scriptLib"/functions.txt 2>/dev/null)
+export fromSelfFolder_errata=$(cat "$scriptLib"/REVIEW-errata.txt 2>/dev/null)
 
 
 
@@ -110,18 +110,34 @@ export fromSelfFolder_functions=$(cat "$scriptLib"/functions.txt 2>/dev/null)
 }
 
 
+
 _document_main() {
 #a
 #b
 # NOTICE: DOCUMENT
 #__HEADER_uk4uPhB663kVcygT0q_HEADER__
-_heading1 'Numbering'
+ '_' '_o' 'date' '--iso-8601'
+ '_' '_o_' '_safeEcho_newline' '"DISCLAIMER: Plausible concepts, attributed sources, oversimplifications, resonably. Rigorous mere academia NOT primary."'
+ '_' '_v' '"DISCLAIMER: Plausible concepts, attributed sources, oversimplifications, resonably. Rigorous mere academia NOT primary."'
+ '_heading1' 'mirage335 autobiography'
+if false; then true; # -->
+<!-- # --><h1>mirage335 autobiography</h1>
+<!--
+fi
+_t '
+scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">My strong interest is in deploying a self-expanding VR environment throughout uninhabited galaxies and most of the Milky Way, so we can all get the most out of life. Already on the frontier of working and living in VR, with >2k hours in headsets and among the first people in the world to get a prototype Pimax Vision 8kX headset. Have designed much hardware and software emphasizing complete &#39;out-of-the-box&#39; FLOSS toolchains, and more is always underway. Also have a long track record of non-profit volunteer service, particularly with HacDC, The Capital Hackerspace.
 
-_heading2 'Components'
-_v "$fromSelfFolder_components"
+Name is Matthew "mirage335" Hines, also findable as "m335" (Discord servers, etc) and "AB3PI" (Amateur Radio).
+<!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
+'
+ '_image' '../../../../zzLib_895-reference/demo/TazStiff_owner.jpg'
+if false; then true; # -->
+<!-- # --><img width="96%" src="../../../../zzLib_895-reference/demo/TazStiff_owner.jpg" style="margin: 0 0 0 15px;border: 5px solid transparent;">
+<!--
+fi
 
-_heading2 'Functions'
-_v "$fromSelfFolder_functions"
+
+
 #__FOOTER_uk4uPhB663kVcygT0q_FOOTER__
 # NOTICE: DOCUMENT
 #y
@@ -313,7 +329,7 @@ _default() {
 	local currentScriptBasename
 	currentScriptBasename=$(basename "$scriptAbsoluteLocation" | sed 's/\.[^.]*$//')
 	#_scribble_html "$@"
-	#[[ -e "$scriptAbsoluteFolder"/"$currentScriptBasename".html ]] && "$scriptAbsoluteFolder"/"$currentScriptBasename".html _test
+	[[ -e "$scriptAbsoluteFolder"/"$currentScriptBasename".html ]] && "$scriptAbsoluteFolder"/"$currentScriptBasename".html _test
 	#rm -f "$scriptAbsoluteFolder"/"$currentScriptBasename".html > /dev/null 2>&1
 	
 	
@@ -361,3 +377,4 @@ exit 0
 __ATTACHMENT_uk4uPhB663kVcygT0q_ATTACHMENT__
 
 
+filename.html # scriptedIllustrator_markup_uk4uPhB663kVcygT0q --> </html>
