@@ -91,6 +91,7 @@ Interdisciplinary technical leadership, strategic planning.
 CAD modeling, electronics design.
 IT infrastructure management.
 CNC machinery design, maintenance, improvement.
+ '_picture' '../../../../zzLib_895-reference/emblems/SOAR_logo.svg.png' '5%'
 
 ___ Soaring Industries LLC ___
 Mar2016 - Present

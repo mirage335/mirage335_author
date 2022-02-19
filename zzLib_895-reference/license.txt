@@ -1,0 +1,8 @@
+Unless otherwise stated, or unless 'source code' 'preferred form of the work' is not here, all files in this directory have the same AGPLv3 license as 'mirage335_author' and are also copyrighted by 'mirage335' .
+If files here are not with 'source code', they may be redistributed ONLY unmodified, or with 'source code' from the projects they may be associated with.
+
+	emblems/
+Files under 'emblems' may not have 'source code' here. May be redistributed ONLY unmodified, or with 'source code' from the projects they may be associated with.
+
+	PatchRap/
+Files under 'PatchRap' may not have 'source code' here. May be redistributed ONLY unmodified, or with 'source code' from the projects they may be associated with.
