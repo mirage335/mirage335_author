@@ -6,3 +6,6 @@ Files under 'emblems' may not have 'source code' here. May be redistributed ONLY
 
 	PatchRap/
 Files under 'PatchRap' may not have 'source code' here. May be redistributed ONLY unmodified, or with 'source code' from the projects they may be associated with.
+
+	from_uTST/
+Files under 'from_uTST' may not have 'source code' here. May be redistributed ONLY unmodified, or with 'source code' from the projects they may be associated with.
