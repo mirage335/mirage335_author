@@ -172,9 +172,11 @@ if false; then true; # -->
 <!--
 fi
 _t '
-scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">
-Maximum performance solutions.
+scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">Maximum performance solutions.
 
+Instructor in Technology Fundamentals (problemSolversGuide). Hardware, 
+software, wetware designer. Interoperability specialist. Deploying a 
+self-expanding VR environment throughout uninhabited space.
 <!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
 '
  '_picture' '../../../../zzLib_895-reference/demo/TazStiff_owner.jpg' '45%'
@@ -259,6 +261,12 @@ if false; then true; # -->
 <!-- # --><div style="page-break-before: always;margin: 0;padding: 0; border-width: 0px;"> </div>
 <!--
 fi
+ '_image' '../../../../zzLib_895-reference/demo/_misc/capture.jpg' '98%'
+if false; then true; # -->
+<!-- # --><img width="98%" src="../../../../zzLib_895-reference/demo/_misc/capture.jpg" style="margin: 0 0 0 15px;border: 5px solid transparent;">
+<!--
+fi
+ '_' '_image' '../../../../zzLib_895-reference/demo/_misc/ee02-totalityClear.bmp.png' '98%'
  '_heading2' 'Direction'
 if false; then true; # -->
 <!-- # --><h2>Direction</h2>
@@ -305,51 +313,64 @@ LiveCD/LiveUSB compatibility.
 territory.
 <!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
 '
+ '_page' ' '
+if false; then true; # -->
+<!-- # --><div style="page-break-before: always;margin: 0;padding: 0; border-width: 0px;"> </div>
+<!--
+fi
  '_heading2' 'Official Titles'
 if false; then true; # -->
 <!-- # --><h2>Official Titles</h2>
 <!--
 fi
+ '_heading3' 'Nation Of Makers (NOM) - Participant'
+if false; then true; # -->
+<!-- # --><h3>Nation Of Makers (NOM) - Participant</h3>
+<!--
+fi
+_t '
+scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">
+Aug2016 - Present
+https://www.nationofmakers.us/
+https://makezine.com/2016/08/31/makerspace-organizers-convene-at-the-white-h
+ouse/
+
+<!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
+'
  '_heading3' 'HacDC - Former Director at Large, Former Vice President and Director of IT, Admin Team, Contributing Member'
 if false; then true; # -->
 <!-- # --><h3>HacDC - Former Director at Large, Former Vice President and Director of IT, Admin Team, Contributing Member</h3>
 <!--
 fi
 _t '
-scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">May2012 - May2021
-
+scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">
+May2012 - May2021
 http://www.hacdc.org/
 
-Official contact for SUPPLIES and EXPANSION funds.
+Former Official contact for SUPPLIES and EXPANSION funds.
 Network infrastructure for St.Stephens Church and tenants. Shell/VPS 
 servers for HacDC members.
+Providing an enduring historical perspective as one of the most 
+longstanding members.
+Multiple projects, presentations, prominently biosignal amplifier and 
+OpticalTableRobot R&D.
+Radio antenna development, testing, installation.
+CNC mill, 3D printer, laser cutter, electronics test equipment deployment, 
+operation, maintenance.
 Represented both Makersmiths and HacDC at the "Nation of Makers" gathering.
+
+
+Please support your local hackerspace!
 <!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
 '
- '_heading3' 'Imagnus Medical - Director of Engineering'
+ '_heading3' 'ZXYPro, 3D Connected Printing - Software Technologist (formerly Chief Technology Officer)'
 if false; then true; # -->
-<!-- # --><h3>Imagnus Medical - Director of Engineering</h3>
+<!-- # --><h3>ZXYPro, 3D Connected Printing - Software Technologist (formerly Chief Technology Officer)</h3>
 <!--
 fi
 _t '
-scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">Feb2013 - Present
-
-https://www.linkedin.com/company/imagnus
-
-Interdisciplinary technical leadership, strategic planning.
-CAD modeling, electronics design.
-IT infrastructure management.
-Electrical, mechanical, and optical prototyping - fabrication and assembly.
-<!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
-'
- '_heading3' '3D Connected Printing, ZXYPro - Software Technologist (formerly Chief Technology Officer)'
-if false; then true; # -->
-<!-- # --><h3>3D Connected Printing, ZXYPro - Software Technologist (formerly Chief Technology Officer)</h3>
-<!--
-fi
-_t '
-scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">May2016 - Present
-
+scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">
+May2016 - Present
 https://zxypro.com/
 https://web.archive.org/web/20180817164203/http://www.3dconnectedprinting.co
 m/
@@ -359,6 +380,22 @@ Interdisciplinary technical leadership, strategic planning.
 CAD modeling, electronics design.
 IT infrastructure management.
 CNC machinery design, maintenance, improvement.
+<!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
+'
+ '_heading3' 'Imagnus Medical - Director of Engineering'
+if false; then true; # -->
+<!-- # --><h3>Imagnus Medical - Director of Engineering</h3>
+<!--
+fi
+_t '
+scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">
+Feb2013 - Present
+https://www.linkedin.com/company/imagnus
+
+Interdisciplinary technical leadership, strategic planning.
+CAD modeling, electronics design.
+IT infrastructure management.
+Electrical, mechanical, and optical prototyping - fabrication and assembly.
 <!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
 '
  '_picture' '../../../../zzLib_895-reference/emblems/SOAR_logo.svg.png' '5%'
@@ -372,7 +409,14 @@ if false; then true; # -->
 <!--
 fi
 _t '
-scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">Mar2016 - Present
+scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">
+Mar2016 - Present
+soaringindustries.space
+Self-owned technology business. Especially offers expertise in deploying 
+own open-source technology, bringing emerging advantages in scalability and 
+profitability, while field testing to reduce distractions from production 
+and design.
+PatchRap and CoreAutoSSH are notable successes of Soaring Industries LLC.
 
 Owner, Sole Proprietor, CEO
 <!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
@@ -1215,7 +1259,9 @@ if false; then true; # -->
 <!--
 fi
 _t '
-scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">Designing, building, and operating a growing base of industrial 
+scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">
+Aug2015-Present
+Designing, building, and operating a growing base of industrial 
 Computerized Numerical Control (CNC) platforms.
 
 TazMega and TazStiff are fully self-designed, built, and operated. TazUp 
@@ -1229,6 +1275,10 @@ strong base to resist stress that would deform less robust machines, and
 heavy tools simultaneously combining 3D printing extruders, milling 
 spindles, and various lasers have been demonstrated.
 
+TazStiff was demonstrated at the US Capitol during Public Knowledge 3D/DC 
+2016. TazMega and TazStiff were both demonstrated at USA Science & 
+Engineering Festival (USASEF) 2016.
+
 https://github.com/mirage335/Taz_Mega
 https://github.com/mirage335/TazMega-SDCard
 https://github.com/mirage335/TazMega-Softload
@@ -1238,6 +1288,10 @@ https://github.com/mirage335/TazIntermediate
 
 https://github.com/mirage335/RigidTable
 https://github.com/mirage335/TazStiff/blob/master/Table/Table.fcstd
+
+https://www.facebook.com/publicknowledge/photos/a.10154183159401600.10737418
+33.81651801599/10154183164601600
+https://youtu.be/0Vlh9-MIHSo?t=38
 <!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
 '
  '_heading3' 'PrusaMendel'
@@ -1246,7 +1300,9 @@ if false; then true; # -->
 <!--
 fi
 _t '
-scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">Collaboratively, have upgraded rigidity, lifespan, and usability for 
+scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">
+May2013 - Mar2015
+Collaboratively, have upgraded rigidity, lifespan, and usability for 
 HacDC&#39;s Prusa Mendel 3D Printer. Responsible for more than half the 
 printer&#39;s parts, through upgrades over a three year period, as well as 
 for the printer remaining operational. Maintenance has included 
@@ -1279,6 +1335,11 @@ if false; then true; # -->
 <!--
 fi
 _t '
+scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">
+Nov2012-Present
+<!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
+'
+_t '
 scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">Animals (including humans) produce weak electrical signals, as hearts beat, 
 muscles move, and neurons fire. Using all the best techniques and 
 components, a uniquely low-noise high-dynamic-range biosignal amplifier has 
@@ -1295,7 +1356,10 @@ list, have been published.
 Special thanks to Shawn Nock for creating oshpark conversion script, having 
 inspired &#39;GEDAProduction&#39; and later &#39;gEDA_designer&#39;, 
 generating a variety of PCB related fabrication assets (eg. CAD models, 
-gerber files, BOM, PDF photomasks).
+gerber files, BOM, PDF photomasks). In all, advice, funding, assembly, and 
+testing help came from &#39;Shawn Nock&#39;, &#39;Sharad Satsangi&#39;, 
+&#39;Stuart Washington&#39;, &#39;The Real Plato&#39;, &#39;Logan 
+Scheel&#39;.
 
 https://wiki.hacdc.org/index.php/Category:BiosignalAmplifier
 <!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
@@ -1306,7 +1370,9 @@ if false; then true; # -->
 <!--
 fi
 _t '
-scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">Built up HacDC&#39;s test equipment cart to handle almost any electronics 
+scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">
+Jan2013-Dec2016
+Built up HacDC&#39;s test equipment cart to handle almost any electronics 
 design problem, through self-built hardware, salvaged components, 
 recommended purchases, and efficient cart layout. Among other things, 
 capabilities were broad enough to construct superheterodyne HF receivers in 
@@ -1326,10 +1392,28 @@ if false; then true; # -->
 fi
 _t '
 scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">
+Oct2013-Present
 Air-core toroid, extremely high performance DC-HF preselection filter for 
 extremely high dynamic range upconverting superheterodyne radios. 
 Functional, tested, and using robust 3D printed electrical components of 
 own manufacture.
+<!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
+'
+ '_heading3' '3D Printed Air-Core Toroid Inductors'
+if false; then true; # -->
+<!-- # --><h3>3D Printed Air-Core Toroid Inductors</h3>
+<!--
+fi
+_t '
+scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">
+Air-core toroid inductors improve electromagnetic interference (EMI), 
+unwanted magnetic coupling, and high-frequency performance. Counter-winding 
+channel eliminates the &#39;one-turn-loop&#39; effect, confining the 
+magnetic field entirely within the toroid and attenuating coupling between 
+stacked toroids to better than -20dB (100x). Whereas air-core stacked 
+planar or solenoid conductors would have nearly 0dB (1x) coupling. Now, 
+plastic formers printed for air-core toroids offer these benefits cheaply 
+on demand.
 <!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
 '
  '_heading3' 'Antenna'
@@ -1338,14 +1422,17 @@ if false; then true; # -->
 <!--
 fi
 _t '
-scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">As a HacDC project, provided worldwide HF (shortwave) amateur radio 
+scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">
+Aug2012-Apr2013
+As a HacDC project, provided worldwide HF (shortwave) amateur radio 
 communication, having served as the club&#39;s primary antenna for at least 
 three years. This replaced an antenna remote amateur radio operator 
 receivers confirmed as inoperable for transmission. Testing a variety of 
 antennas in a rural open field demonstrated a 20m quarter-wave (5m height) 
 vertical monopole antenna was most suitable. With an SGC-237 autotuner, 
 all-band coverage from 1.8MHz to 29.7MHz has been available, meeting the 
-requirements for automatic link establishment.
+requirements for automatic link establishment. Special thanks to Martin 
+Rothfield for testing and arranging roof access.
 
 http://en.wikipedia.org/wiki/Automatic_link_establishment
 https://www.hacdc.org/2012/08/17/new-amateur-radio-antenna/
@@ -1357,7 +1444,9 @@ if false; then true; # -->
 <!--
 fi
 _t '
-scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">Collaboratively worked with Project Byzantium development team at HacDC to 
+scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">
+May2013-Jun2013
+Collaboratively worked with Project Byzantium development team at HacDC to 
 trigger Push-To-Talk radio inputs using only energy received from audio 
 line-level signals. Enables high-speed data transmission across VHF/UHF 
 amateur radio technology, requiring only low-cost &#39;handie talkies&#39; 
@@ -1374,7 +1463,9 @@ if false; then true; # -->
 <!--
 fi
 _t '
-scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">Hosted at HacDC, using servers Shimmer, Starlight, and Nebula. Personally 
+scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">
+Oct2014-Apr2016
+Hosted at HacDC, using servers Shimmer, Starlight, and Nebula. Personally 
 setup and shared with the community. After serving useful purposes, 
 especially VPS hosting for HacDC members, unfortunately defunct due to 
 eroding physical hosting space and ISP changes. Reuse, donation to another 
@@ -1388,9 +1479,11 @@ https://wiki.hacdc.org/index.php/Starlight
 https://wiki.hacdc.org/index.php/Nebula
 <!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
 '
- '_heading3' 'Flight Sim'
+ '_heading3' 'Flight Sim
+Aug2018-Present'
 if false; then true; # -->
-<!-- # --><h3>Flight Sim</h3>
+<!-- # --><h3>Flight Sim
+<!-- # -->Aug2018-Present</h3>
 <!--
 fi
 _t '
@@ -1412,6 +1505,7 @@ if false; then true; # -->
 fi
 _t '
 scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">
+Nov2012-Present
 Custom graphics. Only the satellite, antenna, clouds, stars, are clipart 
 from OpenClipArt or Inkscape. All other work is an original design. Actual 
 cards are color laser printed as seamless 12 card panels, then depanelized 
