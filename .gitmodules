@@ -2,3 +2,7 @@
 	path = _lib/ubiquitous_bash
 	url = git@github.com:mirage335/ubiquitous_bash.git
 	shallow = true
+[submodule "_lib/mirage335.github.io"]
+	path = _lib/mirage335.github.io
+	url = git@github.com:mirage335/mirage335.github.io.git
+	shallow = true
