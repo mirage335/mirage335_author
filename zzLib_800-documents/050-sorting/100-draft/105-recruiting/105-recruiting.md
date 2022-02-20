@@ -267,6 +267,11 @@ if false; then true; # -->
 <!-- # --><div style="page-break-before: always;margin: 0;padding: 0; border-width: 0px;"> </div>
 <!--
 fi
+ '_image' '../../../../zzLib_895-reference/demo/_misc/capture.jpg' '98%'
+if false; then true; # -->
+<!-- # --><img width="98%" src="../../../../zzLib_895-reference/demo/_misc/capture.jpg" style="margin: 0 0 0 15px;border: 5px solid transparent;">
+<!--
+fi
 _t '
 scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">
 Lawful PvP. Straggler criminal CMDRs from Eravate harassing newer players 
@@ -279,11 +284,6 @@ Courier outfitted for speed, interdiction, shield cell cancellation (ie.
 mosquito wing), continued the hunt to another well justified PvP kill.
 <!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
 '
- '_image' '../../../../zzLib_895-reference/demo/_misc/capture.jpg' '98%'
-if false; then true; # -->
-<!-- # --><img width="98%" src="../../../../zzLib_895-reference/demo/_misc/capture.jpg" style="margin: 0 0 0 15px;border: 5px solid transparent;">
-<!--
-fi
  '_' '_image' '../../../../zzLib_895-reference/demo/_misc/ee02-totalityClear.bmp.png' '98%'
  '_heading2' 'Direction'
 if false; then true; # -->
@@ -1561,12 +1561,18 @@ _t '
 scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">Self Taught, Aggressively
 
 Amateur Radio Licensed, Extra Class, earned in one sitting. Callsign AB3PI.
+	
+https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=3350807
+	Issued Feb 2012
+	No Expiration Date
 
 CompTIA Linux+ Certified
+	
+https://www.credly.com/badges/0169e322-dc3b-4972-92de-edb64c4136d9/public_ur
+l
 	http://en.wikipedia.org/wiki/CompTIA#Linux.2B
 	Issued Sep 2010
 	No Expiration Date
-	Credential ID P1B2BE5DBK1EYJZH
 
 Hurricane Electric IPv6 Certification
 	
@@ -1575,6 +1581,8 @@ badge=3
 	Name: mirage335foundation
 	Level: Sage
 	Current Score: 1005
+	Issued Feb 2017
+	No Expiration Date
 
 Black Belt, First Degree
 <!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
@@ -1722,6 +1730,7 @@ scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-to
 AGPLv3
 Unusual exception for specific complete binary files as described by 
 license notice.
+https://github.com/mirage335/mirage335_author
 <!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
 '
  '_heading2' 'License Notice'

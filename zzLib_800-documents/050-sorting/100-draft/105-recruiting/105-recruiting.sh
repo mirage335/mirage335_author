@@ -199,9 +199,9 @@ _t '
 
 '
 _page ' ' ###
+_image $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/_misc/capture.jpg) '98%'
 _t 'Lawful PvP. Straggler criminal CMDRs from Eravate harassing newer players elsewhere in Elite Dangerous were hunted down after Eravate had cleared and Eravate Defense Network (EDN) ships had mostly withdrawn. Much thanks to &#39;Arguendo&#39; for his &#39;IRL&#39; air battle management skills coordinating EDN.
 Here, I &#39;m335&#39; with three other friendly CMDRs, in an Imperial Courier outfitted for speed, interdiction, shield cell cancellation (ie. mosquito wing), continued the hunt to another well justified PvP kill.'
-_image $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/_misc/capture.jpg) '98%'
 _ _image $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/_misc/ee02-totalityClear.bmp.png) '98%'
 _heading2 'Direction'
 _t 'Helpful individuals or organizations are invited to participate.
@@ -673,18 +673,23 @@ _heading2 'Formal Qualifications'
 _t 'Self Taught, Aggressively
 
 Amateur Radio Licensed, Extra Class, earned in one sitting. Callsign AB3PI.
+	https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=3350807
+	Issued Feb 2012
+	No Expiration Date
 
 CompTIA Linux+ Certified
+	https://www.credly.com/badges/0169e322-dc3b-4972-92de-edb64c4136d9/public_url
 	http://en.wikipedia.org/wiki/CompTIA#Linux.2B
 	Issued Sep 2010
 	No Expiration Date
-	Credential ID P1B2BE5DBK1EYJZH
 
 Hurricane Electric IPv6 Certification
 	https://ipv6.he.net/certification/create_badge.php?pass_name=m335foundation&badge=3
 	Name: mirage335foundation
 	Level: Sage
 	Current Score: 1005
+	Issued Feb 2017
+	No Expiration Date
 
 Black Belt, First Degree'
 _t '
@@ -747,7 +752,8 @@ For the future, all industries must be wary of provoking such a ban instead of a
 _heading1 'Copyright'
 
 _t 'AGPLv3
-Unusual exception for specific complete binary files as described by license notice.'
+Unusual exception for specific complete binary files as described by license notice.
+https://github.com/mirage335/mirage335_author'
 
 _heading2 'License Notice'
 
