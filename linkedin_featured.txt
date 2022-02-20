@@ -1,0 +1,113 @@
+
+https://mirage335.github.io/mirage335_author/zzLib_895-reference/demo/TazStiff_owner.jpg
+ TazStiff
+
+https://mirage335.github.io/mirage335_author/zzLib_895-reference/demo/flightSim.jpg
+ FA18C VR Sim w/Pimax
+
+https://mirage335.github.io/mirage335_author/zzLib_895-reference/demo/_misc/capture.jpg
+ Space!
+Lawful PvP. Straggler criminal CMDRs from Eravate harassing newer players elsewhere in Elite Dangerous were hunted down after Eravate had cleared and Eravate Defense Network (EDN) ships had mostly withdrawn. Much thanks to 'Arguendo' for his 'IRL' air battle management skills coordinating EDN.
+Here, I 'm335' with three other friendly CMDRs, in an Imperial Courier outfitted for speed, interdiction, shield cell cancellation (ie. mosquito wing), continued the hunt to another well justified PvP kill.
+
+
+
+https://mirage335.github.io/mirage335_author/zzLib_895-reference/demo/commonControlScheme.png
+ commonControlScheme
+Entire flight deck for any usable vehicle on a single stick.
+
+https://mirage335.github.io/mirage335_author/zzLib_895-reference/demo/PanelBoard.png
+ PanelBoard VR Ship Computer
+IDE-Like Scripted GUI
+
+
+https://raw.githubusercontent.com/mirage335/mirage335_author/main/zzLib_895-reference/from_uTST/problemSolversGuide-amplifier-commonEmitter.png
+ commonEmitterAmplifier Illustration
+
+
+https://mirage335.github.io/mirage335_author/zzLib_895-reference/facilities/facilities-vrWorkstation-more.jpg
+ Software Workstation
+
+https://mirage335.github.io/mirage335_author/zzLib_895-reference/facilities/workbench.jpg
+ Hardware Workstation
+
+https://mirage335.github.io/mirage335_author/zzLib_895-reference/PatchRap/PatchRap.jpg
+ PatchRap
+
+https://mirage335.github.io/mirage335_author/zzLib_895-reference/demo/zipTiePanel-splices.jpg
+ zipTiePanel Splices
+
+
+
+https://raw.githubusercontent.com/mirage335/mirage335_author/main/zzLib_895-reference/emblems/BusinessCard_mirage335_wood.png
+ BusinessCard
+
+
+
+https://mirage335.github.io/mirage335_author/zzLib_895-reference/demo/mrocks.jpg
+ MRocks!
+
+
+
+https://mirage335.github.io/mirage335_author/zzLib_895-reference/demo/MightyTool.jpg
+ TazMega
+
+https://mirage335.github.io/mirage335_author/zzLib_895-reference/demo/04-RigidTableAssembly.jpg
+ RigidTable
+
+https://mirage335.github.io/mirage335_author/zzLib_895-reference/demo/02-PrecisionEngraveTest.jpg
+Laser Engraving
+
+
+
+https://mirage335.github.io/mirage335_author/zzLib_895-reference/demo/500px-PrusaMendelPresent.jpg
+HacDC Prusa Mendel
+
+https://mirage335.github.io/mirage335_author/zzLib_895-reference/demo/TestCartStylish.jpg
+HacDC Test Cart
+
+https://mirage335.github.io/mirage335_author/zzLib_895-reference/demo/OccupancySensor.jpg
+HacDC Occupancy Sensor
+
+
+
+https://mirage335.github.io/mirage335_author/zzLib_895-reference/demo/Render-Cabling-Front.jpg
+ GravitySketch VR
+TazIntermediate Front, cable and belt layout optimized in VR.
+
+https://mirage335.github.io/mirage335_author/zzLib_895-reference/demo/Render-Cabling-Back.jpg
+ GravitySketch VR
+TazIntermediate Back, cable and belt layout optimized in VR.
+
+https://mirage335.github.io/mirage335_author/zzLib_895-reference/demo/referenceImplementations.png
+ commonControlScheme FlightSim Existing Configurations
+
+
+
+https://mirage335.github.io/mirage335_author/zzLib_895-reference/demo/02-heartbeat.jpg
+ ECG Heartbeat
+
+https://mirage335.github.io/mirage335_author/zzLib_895-reference/demo/08-AlphaWavesLowRes.jpg
+ EEG Alpha Rhythm
+
+
+
+https://mirage335.github.io/mirage335_author/zzLib_895-reference/demo/Antenna.jpg
+ HacDC Antenna
+
+https://mirage335.github.io/mirage335_author/zzLib_895-reference/demo/AllBandTest.png
+ WSPR
+
+
+
+https://raw.githubusercontent.com/mirage335/mirage335_author/main/zzLib_895-reference/demo/scriptedIllustrator_demo.png
+ scriptedIllustrator
+Self-modifying interleaved markup and shell. Conversion and output in self-modifying HTML, MediaWiki, Markdown, and PDF, and more. Shell commands can output directly to document. Much more powerful than spreadsheets or other document editing applications.
+
+https://raw.githubusercontent.com/mirage335/mirage335_author/main/zzLib_895-reference/demo/_misc/HexFormer/IMG_20120915_130920.jpg
+ AirCoreToroidInductor
+
+
+
+
+
