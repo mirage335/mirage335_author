@@ -194,7 +194,13 @@ _t 'Sometimes I, &#39;mirage335&#39;, have had the disappointment of witnessing 
 Discovering such discouragement is difficult enough, tolerating such discouragement has no rational excuse.'
 
 
+_t '
+
+
+'
 _page ' ' ###
+_t 'Lawful PvP. Straggler criminal CMDRs from Eravate harassing newer players elsewhere in Elite Dangerous were hunted down after Eravate had cleared and Eravate Defense Network (EDN) ships had mostly withdrawn. Much thanks to &#39;Arguendo&#39; for his &#39;IRL&#39; air battle management skills coordinating EDN.
+Here, I &#39;m335&#39; with three other friendly CMDRs, in an Imperial Courier outfitted for speed, interdiction, shield cell cancellation (ie. mosquito wing), continued the hunt to another well justified PvP kill.'
 _image $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/_misc/capture.jpg) '98%'
 _ _image $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/_misc/ee02-totalityClear.bmp.png) '98%'
 _heading2 'Direction'
@@ -226,7 +232,7 @@ _t 'Aug2016 - Present
 https://www.nationofmakers.us/
 https://makezine.com/2016/08/31/makerspace-organizers-convene-at-the-white-house/
 
-'
+Represented both Makersmiths (as member) and HacDC (as BoD) at the "Nation of Makers" gathering, and remain in contact with the people at that gathering.'
 _heading3 'HacDC - Former Director at Large, Former Vice President and Director of IT, Admin Team, Contributing Member'
 _t 'May2012 - May2021
 http://www.hacdc.org/
@@ -260,13 +266,14 @@ CAD modeling, electronics design.
 IT infrastructure management.
 Electrical, mechanical, and optical prototyping - fabrication and assembly.'
 _picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/emblems/SOAR_logo.svg.png) "5%"
-_heading3 'Soaring Industries LLC'
+_heading3 'Soaring Industries LLC - Owner, Sole Proprietor, CEO'
 _t 'Mar2016 - Present
 soaringindustries.space
 Self-owned technology business. Especially offers expertise in deploying own open-source technology, bringing emerging advantages in scalability and profitability, while field testing to reduce distractions from production and design.
-PatchRap and CoreAutoSSH are notable successes of Soaring Industries LLC.
-
-Owner, Sole Proprietor, CEO'
+PatchRap and CoreAutoSSH are notable successes of Soaring Industries LLC.'
+_ _heading3 'Director - Self'
+_ _t 'Aug2010 - Present
+Self-taught and self-directed, particularly keen to develop open-source fabrication and communication technologies for public benefit.'
 
 
 
@@ -324,7 +331,7 @@ Cryptography
 
 	Signal Processing, statistical confidence testing, psychometrics.
 Filter Design
-Infinite Impuse Response
+Infinite Impulse Response
 Statistics
 Correlation
 Confidence Testing
@@ -350,31 +357,37 @@ _heading2 'Community'
 _t 'Have extensive experience leading community organizations, teaching freely available classes, and identifying issues in open-source code. Additionally, many other projects have been done collaboratively or in service of a larger community.'
 
 _heading3 'Assistant Teacher to Dan Barlow for CNC Mill Class'
-_t 'Class (at HacDC) began with Dan Barlow&#39;s outstanding theoretical introduction, which covered mounting hardware, cutting speeds, machine subsystems, and much more. Subsequently provided practical, hands-on individual instruction. Participants were independently able to attach appropriate mounting hardware, clamp workpieces, generate g-code using JSCut, and actually mill their designs.'
+_t 'Mar2015
+Class (at HacDC) began with Dan Barlow&#39;s outstanding theoretical introduction, which covered mounting hardware, cutting speeds, machine subsystems, and much more. Subsequently provided practical, hands-on individual instruction. Participants were independently able to attach appropriate mounting hardware, clamp workpieces, generate g-code using JSCut, and actually mill their designs.'
 
 _heading3 'CAD Modeling Class'
-_t 'Participants (at HacDC) were guided to create complex printable 3D models in under 20 minutes. Focus was on the fundamental geometric CAD workflow: sketching, constraining, extruding, face sketching, and assembling. After this tutorial, in-service part designs were demonstrated.'
+_t 'May2013
+Participants (at HacDC) were guided to create complex printable 3D models in under 20 minutes. Focus was on the fundamental geometric CAD workflow: sketching, constraining, extruding, face sketching, and assembling. After this tutorial, in-service part designs were demonstrated.'
 
-_heading3 'KVIrc Weak Encryption'
-_t 'Tested and found KVIrc encryption to use only ECB mode, which outputs identical ciphertext for identical inputs and keys. Filed bug report, and contacted developer CtrlAltCa via IRC. Proper CBC mode encryption became available and documented for KVIrc as a result. Encrypting an image in ECB mode, as Wikipedia demonstrates, dramatically reveals this is an incorrect way to use otherwise secure ciphers.
+_heading3 'KVIrc Weak Encryption (Bug Report)'
+_t 'Jul2011
+Tested and found KVIrc encryption to use only ECB mode, which outputs identical ciphertext for identical inputs and keys. Filed bug report, and contacted developer CtrlAltCa via IRC. Proper CBC mode encryption became available and documented for KVIrc as a result. Encrypting an image in ECB mode, as Wikipedia demonstrates, dramatically reveals this is an incorrect way to use otherwise secure ciphers.
 
 http://en.wikipedia.org/wiki/Block_cipher_modes_of_operation
 https://svn.kvirc.de/kvirc/ticket/1169
 http://en.wikipedia.org/wiki/File:Tux_ecb.jpg'
 
-_heading3 'Linux Kernel Tracer Bug'
-_t 'Reported and assisted diagnosis for a Linux kernel bug affecting kernel latency (ie. desktop interactivity). Bug fix was subsequently committed to mainline Linux kernel.
+_heading3 'Linux Kernel Tracer Bug (Software Testing)'
+_t 'Apr2012
+Reported and assisted diagnosis for a Linux kernel bug affecting kernel latency (ie. desktop interactivity). Bug fix was subsequently committed to mainline Linux kernel.
 See commit db4c75cbebd7e5910cd3bcb6790272fcc3042857 at http://www.kernel.org/pub/linux/kernel/v3.x/ChangeLog-3.3.5.'
 
-_heading3 'Web2Project'
-_t 'Added URL-based autofill functionality.
+_heading3 'Web2Project (Feature and Bugfix)'
+_t 'Mar2015
+Added URL-based autofill functionality.
 	https://github.com/web2project/web2project/pull/284
 
 Corrected Calendar URL feed link generator logic. Commit merged into mainline.
 	https://github.com/web2project/web2project/pull/284'
 
-_heading3 'DAViCal'
-_t 'Minor bugfix regarding BIND request (external subscription) support. See dmfs.org for a description of this functionality.
+_heading3 'DAViCal (Bugfix)'
+_t 'Mar2015
+Minor bugfix regarding BIND request (external subscription) support. See dmfs.org for a description of this functionality.
 	https://github.com/mirage335/davical/commit/60895b6aef8cfea6a2b2f29653d33f98c35e7bba
 	http://dmfs.org/wiki/index.php?title=DAViCal'
 
@@ -611,12 +624,17 @@ https://wiki.hacdc.org/index.php/Category:TestCart'
 
 _heading3 '30MHz_LowPass'
 _t 'Oct2013-Present
-Air-core toroid, extremely high performance DC-HF preselection filter for extremely high dynamic range upconverting superheterodyne radios. Functional, tested, and using robust 3D printed electrical components of own manufacture.'
+Air-core toroid, extremely high performance DC-HF preselection filter for extremely high dynamic range upconverting superheterodyne radios. Functional, tested, and using robust 3D printed electrical components of own manufacture.
+
+https://github.com/mirage335/30MhzLowPass'
 
 _heading3 '3D Printed Air-Core Toroid Inductors'
-_t 'Air-core toroid inductors improve electromagnetic interference (EMI), unwanted magnetic coupling, and high-frequency performance. Counter-winding channel eliminates the &#39;one-turn-loop&#39; effect, confining the magnetic field entirely within the toroid and attenuating coupling between stacked toroids to better than -20dB (100x). Whereas air-core stacked planar or solenoid conductors would have nearly 0dB (1x) coupling. Now, plastic formers printed for air-core toroids offer these benefits cheaply on demand.'
+_t 'Oct2013-Present
+Air-core toroid inductors improve electromagnetic interference (EMI), unwanted magnetic coupling, and high-frequency performance. Counter-winding channel eliminates the &#39;one-turn-loop&#39; effect, confining the magnetic field entirely within the toroid and attenuating coupling between stacked toroids to better than -20dB (100x). Whereas air-core stacked planar or solenoid conductors would have nearly 0dB (1x) coupling. Now, plastic formers printed for air-core toroids offer these benefits cheaply on demand.
 
-_heading3 'Antenna'
+https://www.thingiverse.com/thing:870592'
+
+_heading3 'HacDC HF Antenna'
 _t 'Aug2012-Apr2013
 As a HacDC project, provided worldwide HF (shortwave) amateur radio communication, having served as the club&#39;s primary antenna for at least three years. This replaced an antenna remote amateur radio operator receivers confirmed as inoperable for transmission. Testing a variety of antennas in a rural open field demonstrated a 20m quarter-wave (5m height) vertical monopole antenna was most suitable. With an SGC-237 autotuner, all-band coverage from 1.8MHz to 29.7MHz has been available, meeting the requirements for automatic link establishment. Special thanks to Martin Rothfield for testing and arranging roof access.
 

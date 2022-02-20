@@ -138,6 +138,8 @@ volunteer service, particularly with HacDC, The Capital Hackerspace.
 
 Name is Matthew "mirage335" Hines, also findable as "m335" (Discord 
 servers, etc) and "AB3PI" (Amateur Radio).
+
+http://mirage335.member.hacdc.org
 <!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
 '
  '_image' '../../../../zzLib_895-reference/demo/TazStiff_owner.jpg'
