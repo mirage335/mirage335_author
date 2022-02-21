@@ -80,16 +80,14 @@ _image 'zzLib_895-reference/from_uTST/sleeveDive-extraction.png' '60%'
 _picture 'zzLib_895-reference/from_uTST/problemSolversGuide-amplifier-commonEmitter.png' '20%'
 _image 'zzLib_895-reference/from_uTST/lithoDive-flatTool.png' '80%'
 _image 'zzLib_895-reference/from_uTST/cognitionSplicer-topographicMapping.png' '80%'
+_page
 _heading1 'Usage'
 _o _messagePlain_probe './_consolidate_documents.bat'
 _t 'Some larger binary replacement documents (ie. some PDF files) may be written to &#39;_bundle/&#39; to avoid unintentionally adding large binary object output to git history. Move these files to the root of the repository when appropriate.'
-_page
 _heading1 'Design'
 _t 'Mostly uses &#39;scriptedIllustrator&#39; . Some files may use resources from other files, using path variables defined by &#39;./zzLib_800-documents/consolidateVariables.sh&#39; .'
-_page
 _heading1 'Reference'
 _t ' '
-_page
 _heading1 'Copyright'
 _t '
 This file is part of mirage335_author.

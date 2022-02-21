@@ -28,41 +28,20 @@ _r '
  '_image' 'zzLib_895-reference/from_uTST/lithoDive-flatTool.png' '80%'
  '_image' 'zzLib_895-reference/from_uTST/cognitionSplicer-topographicMapping.png' '80%'
 
+ '_page'PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak
+
+
 _ Usage _
 [0;37;100m[0;34m ./_consolidate_documents.bat [0m[0m
 
 Some larger binary replacement documents (ie. some PDF files) may be written to &#39;_bundle/&#39; to avoid unintentionally adding large binary object output to git history. Move these files to the root of the repository when appropriate.
 
- '_page'PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak
-
-
 _ Design _
 
 Mostly uses &#39;scriptedIllustrator&#39; . Some files may use resources from other files, using path variables defined by &#39;./zzLib_800-documents/consolidateVariables.sh&#39; .
 
-
-
-
- '_page'PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak
-
-
-_ Safety _
- 
-
-
-
-
- '_page'PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak
-
-
 _ Reference _
  
-
-
-
-
- '_page'PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak -H-H-H-H- PageBreak
-
 
 _ Copyright _
 

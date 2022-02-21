@@ -126,6 +126,11 @@ if false; then true; # -->
 <!-- # --><img width="80%" src="zzLib_895-reference/from_uTST/cognitionSplicer-topographicMapping.png" style="margin: 0 0 0 15px;border: 5px solid transparent;">
 <!--
 fi
+ '_page'
+if false; then true; # -->
+<!-- # --><div style="page-break-before: always;margin: 0;padding: 0; border-width: 0px;"> </div>
+<!--
+fi
  '_heading1' 'Usage'
 if false; then true; # -->
 <!-- # --><h1>Usage</h1>
@@ -146,11 +151,6 @@ object output to git history. Move these files to the root of the
 repository when appropriate.
 <!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
 '
- '_page'
-if false; then true; # -->
-<!-- # --><div style="page-break-before: always;margin: 0;padding: 0; border-width: 0px;"> </div>
-<!--
-fi
  '_heading1' 'Design'
 if false; then true; # -->
 <!-- # --><h1>Design</h1>
@@ -163,37 +163,6 @@ from other files, using path variables defined by
 &#39;./zzLib_800-documents/consolidateVariables.sh&#39; .
 <!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
 '
-_t '
-scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">
-
-
-<!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
-'
- '_page'
-if false; then true; # -->
-<!-- # --><div style="page-break-before: always;margin: 0;padding: 0; border-width: 0px;"> </div>
-<!--
-fi
- '_heading1' 'Safety'
-if false; then true; # -->
-<!-- # --><h1>Safety</h1>
-<!--
-fi
-_t '
-scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;"> 
-<!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
-'
-_t '
-scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">
-
-
-<!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
-'
- '_page'
-if false; then true; # -->
-<!-- # --><div style="page-break-before: always;margin: 0;padding: 0; border-width: 0px;"> </div>
-<!--
-fi
  '_heading1' 'Reference'
 if false; then true; # -->
 <!-- # --><h1>Reference</h1>
@@ -203,17 +172,6 @@ _t '
 scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;"> 
 <!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
 '
-_t '
-scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">
-
-
-<!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
-'
- '_page'
-if false; then true; # -->
-<!-- # --><div style="page-break-before: always;margin: 0;padding: 0; border-width: 0px;"> </div>
-<!--
-fi
  '_heading1' 'Copyright'
 if false; then true; # -->
 <!-- # --><h1>Copyright</h1>
