@@ -60,48 +60,35 @@ See the end of the file for license conditions.
 See license.txt for mirage335_author license conditions.
 
 
-A program able to call other programs and extensively self-test. Compatible nominally with at least typical Unix-similar and MSW distributions.'
+Resume, recruiting, policy, demos, etc, regarding &#39;author&#39; mirage335.'
 _t '
 
 
 '
 _heading1 'Reading'
-_ ' ' # TODO: Images from_uTST . Frames of other HTML.
+_picture 'zzLib_895-reference/demo/TazStiff_owner.jpg' '25%'
+_t 'Recommended reading includes...
+* document-biography.pdf
+* document-recruiting-complete.pdf
+* document-numbering.pdf
+* zzLib_895-reference/from_uTST (image gallery)
+* zzLib_895-reference/demo (image gallery)
+* zzLib_895-reference/demo/_misc (image gallery)'
+_r '<iframe src="./index.html" width=95% height=720></iframe>'
 _image 'zzLib_895-reference/from_uTST/neuralBits-zEXCERPTED-diagram-picture.png' '40%'
 _image 'zzLib_895-reference/from_uTST/sleeveDive-extraction.png' '60%'
 _picture 'zzLib_895-reference/from_uTST/problemSolversGuide-amplifier-commonEmitter.png' '20%'
 _image 'zzLib_895-reference/from_uTST/lithoDive-flatTool.png' '80%'
 _image 'zzLib_895-reference/from_uTST/cognitionSplicer-topographicMapping.png' '80%'
-_r '<iframe src="./index.html" width=95% height=720></iframe>'
-_t '
-
-
-'
 _heading1 'Usage'
 _o _messagePlain_probe './_consolidate_documents.bat'
-_t '
-Some larger binary replacement documents (ie. some PDF files) may be written to &#39;_bundle/&#39; to avoid unintentionally adding large binary object output to git history. Move these files to the root of the repository when appropriate.'
+_t 'Some larger binary replacement documents (ie. some PDF files) may be written to &#39;_bundle/&#39; to avoid unintentionally adding large binary object output to git history. Move these files to the root of the repository when appropriate.'
 _page
 _heading1 'Design'
-_t ' '
-_t '
-
-
-'
-_page
-_heading1 'Safety'
-_t ' '
-_t '
-
-
-'
+_t 'Mostly uses &#39;scriptedIllustrator&#39; . Some files may use resources from other files, using path variables defined by &#39;./zzLib_800-documents/consolidateVariables.sh&#39; .'
 _page
 _heading1 'Reference'
 _t ' '
-_t '
-
-
-'
 _page
 _heading1 'Copyright'
 _t '
