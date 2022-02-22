@@ -43,6 +43,10 @@ Mostly uses &#39;scriptedIllustrator&#39; . Some files may use resources from ot
 _ Reference _
  
 
+_ ACKNOWLEDGEMENT - Repository History _
+
+In addition to any stated acknowledgements in the documents here, which may cite contributors or other works, the repository history may also acknowledge authors, contributors, and other works. Normally, explicit citations will nevertheless be added to documents here under an &#39;acknowledgement&#39; or similar heading, unless the documents are of narrow, small, non-research, and/or similar purpose for which such would not be usual apparent practice (eg. a &#39;resume&#39;).
+
 _ Copyright _
 
 This file is part of mirage335_author.
