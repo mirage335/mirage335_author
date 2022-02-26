@@ -6,6 +6,7 @@ Any CONTRIBUTIONS to a PUBLISHED CRYPTOGRAPHY project WILL be REPORTED to extent
 
 
 ========================================
+from example@email.com
 SUBMISSION TYPE: EAR 742.15(b) and 734.3(b)(3)
 SUBMITTED BY: <RepresentativeOfOrganization>
 SUBMITTED FOR: <OrganizationNameLLC>
@@ -42,7 +43,7 @@ May not (or may) be expected to implement any cryptography (eg. ciphers, ECB/CBC
 
 
 
-_Reference_ 
+_Reference_
 https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C
 
 https://en.wikipedia.org/wiki/Export_of_cryptography_from_the_United_States
@@ -74,8 +75,10 @@ https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-7
 				https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C/part-742/section-742.15#p-742.15(b)(2)
 
 
-
-
+https://www.govinfo.gov/content/pkg/CFR-2009-title15-vol2/xml/CFR-2009-title15-vol2-subtitleB-chapVII-subchapC.xml
+	'reasonable'
+	'willful'
+	'great weight'
 
 
 
