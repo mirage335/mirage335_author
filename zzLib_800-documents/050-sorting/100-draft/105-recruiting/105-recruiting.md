@@ -704,6 +704,8 @@ At least three years of shell scripting, >20k SLOC, and field testing,
 
 This document itself is self-modifying interleaved shell code from 
 &#39;ubiquitous_bash&#39; and markup.
+
+https://github.com/mirage335/ubiquitous_bash
 <!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
 '
  '_heading3' 'scriptedIllustrator'
@@ -718,6 +720,8 @@ language). Multiple simultaneous self-modifying output formats (HTML,
 MediaWiki, Markdown) and PDF conversion.
 
 This document itself is created by &#39;scriptedIllustrator&#39;.
+
+https://github.com/mirage335/scriptedIllustrator
 <!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
 '
  '_heading3' 'BOM_designer'
@@ -726,10 +730,11 @@ if false; then true; # -->
 <!--
 fi
 _t '
-scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">
-Hierarchical all-purpose Bill-of-Materials (aka. BOM) generator. 
+scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">Hierarchical all-purpose Bill-of-Materials (aka. BOM) generator. 
 Specifically intended to tally components from complex assemblies of other 
 complex assemblies.
+
+https://github.com/mirage335/BOM_designer
 <!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
 '
  '_heading3' 'gEDA_designer'
@@ -738,12 +743,13 @@ if false; then true; # -->
 <!--
 fi
 _t '
-scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">
-Generates, manufacturing (ie. gerber, centroid), distributor (eg. Mouser 
+scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">Generates, manufacturing (ie. gerber, centroid), distributor (eg. Mouser 
 CSV), CAD (eg. SVG, DXF), model (eg. PDF, PNG),  photomask (eg. PDF), 
 files. Includes template and vector tests. May use similarly contained 
 custom patched &#39;pcb2gcode&#39; and/or &#39;pcb&#39; as necessary for 
 photomask, CNC drill/routing path, and autorouting compatibility.
+
+https://github.com/mirage335/gEDA_designer
 <!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
 '
  '_heading3' 'arduinoUbiquitous'
@@ -764,6 +770,8 @@ etc. Robust serial port and hardware port communication interaction and
 upload. Extensible by imported shell script neighboring &#39;ino&#39; file 
 (eg. to implement firmware-specific serial port identification). Certified 
 well-tested versions noted in README file. Among other features.
+
+https://github.com/mirage335/arduinoUbiquitous
 <!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
 '
  '_heading3' 'PatchRap'
@@ -808,13 +816,56 @@ if false; then true; # -->
 <!--
 fi
 _t '
-scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">
-Field test of tool usability, from electromechanical design, to the point 
+scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">Field test of tool usability, from electromechanical design, to the point 
 of cabling diagramming and assembly rehearsal in VR. Only the VR part not 
 yet 100% FLOSS, otherwise portable to any Linux (eg. VM) machine.
+
+https://github.com/mirage335/TazIntermediate
 <!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
 '
- '_' '_page' ' '
+ '_heading3' 'flipKey'
+if false; then true; # -->
+<!-- # --><h3>flipKey</h3>
+<!--
+fi
+_t '
+scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">Multiplatform crypto shredding framework around veracrypt and cryptsetup. 
+Ensures fragments of supposedly deleted or shielded plaintext are 
+unreadable after any erasure, scrambling, or unobservability of the large 
+(usually gigabytes) key file.
+
+Notable *archival storage* capability real-time quad-redundant 
+Magneto-Optical 640M discs and archival backup to BD-R. Reliability of 
+Magneto-Optical 640M discs remains uniquely outstandingly useful today - 
+thoroughly designed to ensure that data written is deeply embedded. 
+Magneto-Optical discs are readable through ~2mm dust particles or defects, 
+are designed not to split from elastic sealant layer, and have very strong 
+magnetic coercitivity when cooled after writing.
+
+https://github.com/mirage335/flipKey
+<!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
+'
+ '_heading3' 'coreoracle'
+if false; then true; # -->
+<!-- # --><h3>coreoracle</h3>
+<!--
+fi
+_t '
+scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">Pure ciphertext communications and secret-sharing volume decryption. May 
+enable radio messaging statistically indistinguishable to distant listeners 
+from noise, add a layer of quantum computing resistance to existing 
+asymmetric protocols (eg. SSH, SSL), and add network services dependence to 
+disk encryption. For developers, &#39;coreoracle&#39; is also an example of 
+using &#39;metaEngine&#39; (an &#39;ubiquitous bash&#39; feature).
+
+https://github.com/mirage335/coreoracle
+<!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
+'
+ '_page' ' '
+if false; then true; # -->
+<!-- # --><div style="page-break-before: always;margin: 0;padding: 0; border-width: 0px;"> </div>
+<!--
+fi
  '_heading2' 'Projects'
 if false; then true; # -->
 <!-- # --><h2>Projects</h2>
@@ -1277,9 +1328,180 @@ if false; then true; # -->
 <!-- # --><img width="95%" src="../../../../zzLib_895-reference/demo/flightSim.jpg" style="margin: 0 0 0 15px;border: 5px solid transparent;">
 <!--
 fi
- '_picture' '../../../../zzLib_895-reference/emblems/businessCard_mirage335_pcb.png' '40%'
+ '_heading3' 'universalTechnologySpecificationTextbook'
 if false; then true; # -->
-<!-- # --><img width="40%" src="../../../../zzLib_895-reference/emblems/businessCard_mirage335_pcb.png" style="float: right;margin: 0 0 0 15px;border: 5px solid transparent;">
+<!-- # --><h3>universalTechnologySpecificationTextbook</h3>
+<!--
+fi
+_t '
+scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">Feb2022-Present (part of &#39;mirage335_documents&#39;)
+
+Self-Driving AI builds habitat throughout uninhabited galaxies and most of 
+the Milky Way. Virtual Reality efficiently creates unlimited space for as 
+many people as possible. Many people continue living on planetary surfaces.
+
+Details of how to build all of the technologies to make this possible are 
+described here. Also, some discussion of what should be done and why. 
+Something of a &#39;how-to&#39; guide.
+
+
+Notable headings.
+*) problemSolversGuide
+*) cognitionSplicer
+*) neuralBits
+*) mechDive
+*) CARDinal
+*) lithoDive
+*) positionTrackers
+*) sleeveDive
+*) cryogenicComputer
+*) flightDeck
+*) modularAI
+
+git clone --recursive git@github.com:mirage335/mirage335_documents.git
+
+https://raw.githubusercontent.com/mirage335/mirage335_documents/main/mirage3
+35_documents.pdf
+<!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
+'
+_t '
+scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">
+
+<!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
+'
+ '_cells_begin' '92%'
+if false; then true; # -->
+<!-- # --><table width="92%" style="empty-cells: show; border-spacing: 0px; border: 1px solid black; margin-top: 0px; vertical-align: top;">
+<!--
+fi
+ '_cells_row_begin'
+if false; then true; # -->
+<!-- # --><tr>
+<!--
+fi
+ '_cells_speck_begin' '58%'
+if false; then true; # -->
+<!-- # --><td width="58%" colspan="1" style="border-spacing: 0px; border: 1px solid black; margin-top: 0px; vertical-align: top;">
+<!--
+fi
+ '_picture' '../../../../zzLib_895-reference/from_uTST/cognitionSplicer-topographicMapping.png' '98%'
+if false; then true; # -->
+<!-- # --><img width="98%" src="../../../../zzLib_895-reference/from_uTST/cognitionSplicer-topographicMapping.png" style="float: right;margin: 0 0 0 15px;border: 5px solid transparent;">
+<!--
+fi
+ '_cells_speck_end'
+if false; then true; # -->
+<!-- # --></td>
+<!--
+fi
+ '_cells_speck_begin' '32%'
+if false; then true; # -->
+<!-- # --><td width="32%" colspan="1" style="border-spacing: 0px; border: 1px solid black; margin-top: 0px; vertical-align: top;">
+<!--
+fi
+ '_cells_begin'
+if false; then true; # -->
+<!-- # --><table width="0%" style="empty-cells: show; border-spacing: 0px; border: 1px solid black; margin-top: 0px; vertical-align: top;">
+<!--
+fi
+ '_cells_row_begin'
+if false; then true; # -->
+<!-- # --><tr>
+<!--
+fi
+ '_cells_speck_begin' '98%'
+if false; then true; # -->
+<!-- # --><td width="98%" colspan="1" style="border-spacing: 0px; border: 1px solid black; margin-top: 0px; vertical-align: top;">
+<!--
+fi
+ '_picture' '../../../../zzLib_895-reference/from_uTST/problemSolversGuide-amplifier-commonEmitter.png' '98%'
+if false; then true; # -->
+<!-- # --><img width="98%" src="../../../../zzLib_895-reference/from_uTST/problemSolversGuide-amplifier-commonEmitter.png" style="float: right;margin: 0 0 0 15px;border: 5px solid transparent;">
+<!--
+fi
+ '_cells_speck_end'
+if false; then true; # -->
+<!-- # --></td>
+<!--
+fi
+ '_cells_row_end'
+if false; then true; # -->
+<!-- # --></tr>
+<!--
+fi
+ '_cells_row_begin'
+if false; then true; # -->
+<!-- # --><tr>
+<!--
+fi
+ '_cells_speck_begin' '98%'
+if false; then true; # -->
+<!-- # --><td width="98%" colspan="1" style="border-spacing: 0px; border: 1px solid black; margin-top: 0px; vertical-align: top;">
+<!--
+fi
+ '_picture' '../../../../zzLib_895-reference/from_uTST/neuralBits-zEXCERPTED-diagram-picture.png' '98%'
+if false; then true; # -->
+<!-- # --><img width="98%" src="../../../../zzLib_895-reference/from_uTST/neuralBits-zEXCERPTED-diagram-picture.png" style="float: right;margin: 0 0 0 15px;border: 5px solid transparent;">
+<!--
+fi
+ '_cells_speck_end'
+if false; then true; # -->
+<!-- # --></td>
+<!--
+fi
+ '_cells_row_end'
+if false; then true; # -->
+<!-- # --></tr>
+<!--
+fi
+ '_cells_row_begin'
+if false; then true; # -->
+<!-- # --><tr>
+<!--
+fi
+ '_cells_speck_begin' '98%'
+if false; then true; # -->
+<!-- # --><td width="98%" colspan="1" style="border-spacing: 0px; border: 1px solid black; margin-top: 0px; vertical-align: top;">
+<!--
+fi
+ '_picture' '../../../../zzLib_895-reference/from_uTST/lithoDive-flatTool.png' '98%'
+if false; then true; # -->
+<!-- # --><img width="98%" src="../../../../zzLib_895-reference/from_uTST/lithoDive-flatTool.png" style="float: right;margin: 0 0 0 15px;border: 5px solid transparent;">
+<!--
+fi
+ '_cells_speck_end'
+if false; then true; # -->
+<!-- # --></td>
+<!--
+fi
+ '_cells_row_end'
+if false; then true; # -->
+<!-- # --></tr>
+<!--
+fi
+ '_cells_end'
+if false; then true; # -->
+<!-- # --></table>
+<!--
+fi
+ '_cells_speck_end'
+if false; then true; # -->
+<!-- # --></td>
+<!--
+fi
+ '_cells_row_end'
+if false; then true; # -->
+<!-- # --></tr>
+<!--
+fi
+ '_cells_end'
+if false; then true; # -->
+<!-- # --></table>
+<!--
+fi
+ '_page' ' '
+if false; then true; # -->
+<!-- # --><div style="page-break-before: always;margin: 0;padding: 0; border-width: 0px;"> </div>
 <!--
 fi
  '_heading3' 'Industrial Computerized Numerical Control (CNC) Platforms'
@@ -1532,6 +1754,11 @@ controls to buttons and axes for a much wider variety of tools and vehicles
 .
 <!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
 '
+ '_picture' '../../../../zzLib_895-reference/emblems/businessCard_mirage335_pcb.png' '30%'
+if false; then true; # -->
+<!-- # --><img width="30%" src="../../../../zzLib_895-reference/emblems/businessCard_mirage335_pcb.png" style="float: right;margin: 0 0 0 15px;border: 5px solid transparent;">
+<!--
+fi
  '_heading3' 'BusinessCard'
 if false; then true; # -->
 <!-- # --><h3>BusinessCard</h3>

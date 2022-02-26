@@ -411,23 +411,33 @@ Hence, Ubiquitous Bash happened. Software would see the same directories even if
 
 At least three years of shell scripting, >20k SLOC, and field testing, &#39;ubiquitous_bash&#39; has acheived all objectives.
 
-This document itself is self-modifying interleaved shell code from &#39;ubiquitous_bash&#39; and markup.'
+This document itself is self-modifying interleaved shell code from &#39;ubiquitous_bash&#39; and markup.
+
+https://github.com/mirage335/ubiquitous_bash'
 
 _heading3 'scriptedIllustrator'
 _t 'Documentation generation as self-modifying file of interleaved shell code from &#39;ubiquitous_bash&#39; and markup (using block comments of each language). Multiple simultaneous self-modifying output formats (HTML, MediaWiki, Markdown) and PDF conversion.
 
-This document itself is created by &#39;scriptedIllustrator&#39;.'
+This document itself is created by &#39;scriptedIllustrator&#39;.
+
+https://github.com/mirage335/scriptedIllustrator'
 
 _heading3 'BOM_designer'
-_t 'Hierarchical all-purpose Bill-of-Materials (aka. BOM) generator. Specifically intended to tally components from complex assemblies of other complex assemblies.'
+_t 'Hierarchical all-purpose Bill-of-Materials (aka. BOM) generator. Specifically intended to tally components from complex assemblies of other complex assemblies.
+
+https://github.com/mirage335/BOM_designer'
 
 _heading3 'gEDA_designer'
-_t 'Generates, manufacturing (ie. gerber, centroid), distributor (eg. Mouser CSV), CAD (eg. SVG, DXF), model (eg. PDF, PNG),  photomask (eg. PDF), files. Includes template and vector tests. May use similarly contained custom patched &#39;pcb2gcode&#39; and/or &#39;pcb&#39; as necessary for photomask, CNC drill/routing path, and autorouting compatibility.'
+_t 'Generates, manufacturing (ie. gerber, centroid), distributor (eg. Mouser CSV), CAD (eg. SVG, DXF), model (eg. PDF, PNG),  photomask (eg. PDF), files. Includes template and vector tests. May use similarly contained custom patched &#39;pcb2gcode&#39; and/or &#39;pcb&#39; as necessary for photomask, CNC drill/routing path, and autorouting compatibility.
+
+https://github.com/mirage335/gEDA_designer'
 
 _heading3 'arduinoUbiquitous'
 _t 'Arduino build environments, projects, configuration, self-contained relative to &#39;ino&#39; file instead of user directories.
 
-Project and library file absolute locations always appear at same location (eg. &#39;/dev/shm/...&#39;) set by an automatically generated &#39;project.afs&#39; file (ie. &#39;ubiquitous_bash&#39; &#39;abstractfs&#39;). Working ARM hardware debugging services included with randomized network port connection to &#39;gdb&#39;, &#39;ddd&#39;, etc. Robust serial port and hardware port communication interaction and upload. Extensible by imported shell script neighboring &#39;ino&#39; file (eg. to implement firmware-specific serial port identification). Certified well-tested versions noted in README file. Among other features.'
+Project and library file absolute locations always appear at same location (eg. &#39;/dev/shm/...&#39;) set by an automatically generated &#39;project.afs&#39; file (ie. &#39;ubiquitous_bash&#39; &#39;abstractfs&#39;). Working ARM hardware debugging services included with randomized network port connection to &#39;gdb&#39;, &#39;ddd&#39;, etc. Robust serial port and hardware port communication interaction and upload. Extensible by imported shell script neighboring &#39;ino&#39; file (eg. to implement firmware-specific serial port identification). Certified well-tested versions noted in README file. Among other features.
+
+https://github.com/mirage335/arduinoUbiquitous'
 
 _heading3 'PatchRap'
 
@@ -441,13 +451,29 @@ _heading3 'LiveUSB/LiveCD'
 _t 'Built by &#39;ubiquitous_bash&#39;. Hibernation Snapshot, SaveState (VM features on any virtualization backend or physical computer hardware). Bootable disk images from same build also will be used as development computer (x64), end-user computer  (x64), cloud services  (x64) for thin-client, and embedded (RasPi) OS distribution.'
 
 _heading3 'TazIntermediate'
-_t 'Field test of tool usability, from electromechanical design, to the point of cabling diagramming and assembly rehearsal in VR. Only the VR part not yet 100% FLOSS, otherwise portable to any Linux (eg. VM) machine.'
+_t 'Field test of tool usability, from electromechanical design, to the point of cabling diagramming and assembly rehearsal in VR. Only the VR part not yet 100% FLOSS, otherwise portable to any Linux (eg. VM) machine.
+
+https://github.com/mirage335/TazIntermediate'
+
+_heading3 'flipKey'
+_t 'Multiplatform crypto shredding framework around veracrypt and cryptsetup. Ensures fragments of supposedly deleted or shielded plaintext are unreadable after any erasure, scrambling, or unobservability of the large (usually gigabytes) key file.
+
+Notable *archival storage* capability real-time quad-redundant Magneto-Optical 640M discs and archival backup to BD-R. Reliability of Magneto-Optical 640M discs remains uniquely outstandingly useful today - thoroughly designed to ensure that data written is deeply embedded. Magneto-Optical discs are readable through ~2mm dust particles or defects, are designed not to split from elastic sealant layer, and have very strong magnetic coercitivity when cooled after writing.
+
+https://github.com/mirage335/flipKey'
+
+_heading3 'coreoracle'
+_t 'Pure ciphertext communications and secret-sharing volume decryption. May enable radio messaging statistically indistinguishable to distant listeners from noise, add a layer of quantum computing resistance to existing asymmetric protocols (eg. SSH, SSL), and add network services dependence to disk encryption. For developers, &#39;coreoracle&#39; is also an example of using &#39;metaEngine&#39; (an &#39;ubiquitous bash&#39; feature).
+
+https://github.com/mirage335/coreoracle'
 
 
 
 
 
-_ _page ' ' ###
+
+
+_page ' ' ###
 _heading2 'Projects'
 
 _t 'Assortment of side projects. Some continue as substantially important resources, others as expended resources having fulfilled a useful purpose and exemplified principles for future work.'
@@ -569,8 +595,86 @@ _ _cells_row_end
 _ _cells_end
 
 _image $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/demo/flightSim.jpg) "95%"
-_picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/emblems/businessCard_mirage335_pcb.png) "40%"
 
+
+_heading3 'universalTechnologySpecificationTextbook'
+
+_t 'Feb2022-Present (part of &#39;mirage335_documents&#39;)
+
+Self-Driving AI builds habitat throughout uninhabited galaxies and most of the Milky Way. Virtual Reality efficiently creates unlimited space for as many people as possible. Many people continue living on planetary surfaces.
+
+Details of how to build all of the technologies to make this possible are described here. Also, some discussion of what should be done and why. Something of a &#39;how-to&#39; guide.
+
+
+Notable headings.
+*) problemSolversGuide
+*) cognitionSplicer
+*) neuralBits
+*) mechDive
+*) CARDinal
+*) lithoDive
+*) positionTrackers
+*) sleeveDive
+*) cryogenicComputer
+*) flightDeck
+*) modularAI
+
+git clone --recursive git@github.com:mirage335/mirage335_documents.git
+
+https://raw.githubusercontent.com/mirage335/mirage335_documents/main/mirage335_documents.pdf'
+
+_t '
+
+'
+_cells_begin '92%'
+
+_cells_row_begin
+
+_cells_speck_begin '58%'
+_picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/from_uTST/cognitionSplicer-topographicMapping.png) "98%"
+_cells_speck_end
+
+_cells_speck_begin '32%'
+
+
+
+_cells_begin
+
+_cells_row_begin
+_cells_speck_begin '98%'
+_picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/from_uTST/problemSolversGuide-amplifier-commonEmitter.png) "98%"
+_cells_speck_end
+_cells_row_end
+
+_cells_row_begin
+_cells_speck_begin '98%'
+_picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/from_uTST/neuralBits-zEXCERPTED-diagram-picture.png) "98%"
+_cells_speck_end
+_cells_row_end
+
+_cells_row_begin
+_cells_speck_begin '98%'
+_picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/from_uTST/lithoDive-flatTool.png) "98%"
+_cells_speck_end
+_cells_row_end
+
+_cells_end
+
+
+
+_cells_speck_end
+
+_cells_row_end
+
+_cells_end
+
+
+
+
+
+
+
+_page ' ' ###
 _heading3 'Industrial Computerized Numerical Control (CNC) Platforms'
 _t 'Aug2015-Present
 Designing, building, and operating a growing base of industrial Computerized Numerical Control (CNC) platforms.
@@ -662,6 +766,7 @@ Aug2018-Present'
 _t 'Proficient (at least when not out of practice) in DCS World with FA18C and other simulated aircraft including F16C, to the point of complete startup procedures, avionics use, night carrier landings, formation flying, approach plates, etc. Partly used to perfect the &#39;commonControlScheme&#39; single-stick compatible HOTAS specification, and alternative voice commands, carefully provisioned for mapping of all controls to buttons and axes for a much wider variety of tools and vehicles .'
 
 
+_picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/emblems/businessCard_mirage335_pcb.png) "30%"
 _heading3 'BusinessCard'
 _t 'Nov2012-Present
 Custom graphics. Only the satellite, antenna, clouds, stars, are clipart from OpenClipArt or Inkscape. All other work is an original design. Actual cards are color laser printed as seamless 12 card panels, then depanelized by HacDC&#39;s 40W CO2 laser cutter (and later Makersmiths&#39;s CO2 laser cutter).'
