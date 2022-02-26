@@ -840,7 +840,7 @@ Magneto-Optical 640M discs remains uniquely outstandingly useful today -
 thoroughly designed to ensure that data written is deeply embedded. 
 Magneto-Optical discs are readable through ~2mm dust particles or defects, 
 are designed not to split from elastic sealant layer, and have very strong 
-magnetic coercitivity when cooled after writing.
+magnetic coercivity when cooled after writing.
 
 https://github.com/mirage335/flipKey
 <!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q

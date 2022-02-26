@@ -458,7 +458,7 @@ https://github.com/mirage335/TazIntermediate'
 _heading3 'flipKey'
 _t 'Multiplatform crypto shredding framework around veracrypt and cryptsetup. Ensures fragments of supposedly deleted or shielded plaintext are unreadable after any erasure, scrambling, or unobservability of the large (usually gigabytes) key file.
 
-Notable *archival storage* capability real-time quad-redundant Magneto-Optical 640M discs and archival backup to BD-R. Reliability of Magneto-Optical 640M discs remains uniquely outstandingly useful today - thoroughly designed to ensure that data written is deeply embedded. Magneto-Optical discs are readable through ~2mm dust particles or defects, are designed not to split from elastic sealant layer, and have very strong magnetic coercitivity when cooled after writing.
+Notable *archival storage* capability real-time quad-redundant Magneto-Optical 640M discs and archival backup to BD-R. Reliability of Magneto-Optical 640M discs remains uniquely outstandingly useful today - thoroughly designed to ensure that data written is deeply embedded. Magneto-Optical discs are readable through ~2mm dust particles or defects, are designed not to split from elastic sealant layer, and have very strong magnetic coercivity when cooled after writing.
 
 https://github.com/mirage335/flipKey'
 
