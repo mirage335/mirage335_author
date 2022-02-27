@@ -321,7 +321,7 @@ https://www.irs.gov/charities-non-profits/charitable-purposes
 
 
 _heading3 'POLICY_AVOIDANCE_politics'
-_t 'Prefer a balanced view rather than divisive politics. Aside from distinct ethical issues (including anti-harassment), which among other possible criteria, are least ambiguous, least legitimately controversial, least political, and least geopolitical, I have no particular interest in Democrats vs Republicans, Unions vs No Unions, monetary policy, or irrational voting issues. If anything, I would prefer to see all sides of US politics trend towards mildness, investment, and economics.
+_t 'Prefer a balanced view rather than divisive politics. Aside from distinct ethical issues (including anti-harassment), which among other possible criteria, are least divisive, least ambiguous, least legitimately controversial, least political, and least geopolitical, I have no particular interest in Democrats vs Republicans, Unions vs No Unions, monetary policy, or irrational voting issues. If anything, I would prefer to see all sides of US politics trend towards mildness, investment, and economics.
 
 My primary political concern will be, has been, and is expedient developer access to use and share with the world the full benefits of self-driving AI, Virtual Reality, neural interfaces, etc.
 
@@ -437,7 +437,9 @@ https://en.wikipedia.org/wiki/Sinking_of_the_Titanic#Preparing_to_abandon_ship
 
 
 https://news.yahoo.com/danger-supreme-court-undercutting-biden-200455779.html
-	&#39;On its surface this is a case about vaccine mandates, but it is also a proxy war over the heart of the administrative state. If the Court applies the major questions doctrine in this case, that precedent will be used to constrain other agencies from acting in new, unprecedented dramatic situations, forcing them to wait for explicit authorization from Congress to act; authorization that may never come. Depending on what you think of the balance of power between Congress and the Executive that could be good or bad. But, if as it appears likely, the conservative Justices will block the ETS on this or an adjacent theory, the immediate casualty of this proxy war is the public’s health. The rule is estimated to save over 6,500 lives and prevent 250,00 hospitalizations over six months, although these estimates were pre-Omicron.&#39;'
+https://www.govinfo.gov/content/pkg/FR-2021-11-05/pdf/2021-23643.pdf
+	&#39;On its surface this is a case about vaccine mandates, but it is also a proxy war over the heart of the administrative state. If the Court applies the major questions doctrine in this case, that precedent will be used to constrain other agencies from acting in new, unprecedented dramatic situations, forcing them to wait for explicit authorization from Congress to act; authorization that may never come. Depending on what you think of the balance of power between Congress and the Executive that could be good or bad. But, if as it appears likely, the conservative Justices will block the ETS on this or an adjacent theory, the immediate casualty of this proxy war is the public’s health. The rule is estimated to save over 6,500 lives and prevent 250,00 hospitalizations over six months, although these estimates were pre-Omicron.&#39;
+	&#39;prevent over 250,000 hospitalizations&#39; (used article has correct quote)'
 
 
 

@@ -188,6 +188,18 @@ narrow, small, non-research, and/or similar purpose for which such would
 not be usual apparent practice (eg. a &#39;resume&#39;).
 <!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
 '
+ '_heading1' 'ACKNOWLEDGEMENT - Contributors'
+if false; then true; # -->
+<!-- # --><h1>ACKNOWLEDGEMENT - Contributors</h1>
+<!--
+fi
+_t '
+scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">
+Supplementing any acknowledgements elsewhere of contributors to documents 
+here.
+* Julia Longtin. Especially for advice and copy editing.
+<!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
+'
  '_heading1' 'Copyright'
 if false; then true; # -->
 <!-- # --><h1>Copyright</h1>

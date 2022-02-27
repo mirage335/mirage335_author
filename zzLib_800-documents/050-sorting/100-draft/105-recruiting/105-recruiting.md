@@ -209,7 +209,7 @@ Typically available between 10:00-22:00 EDT and often beyond.
 Please *do* text, leave voicemail, call multiple times, contact through 
 multiple channels (eg. both IRC and Discord), repeatedly send multiple 
 emails, etc. Due to persistent automation spam everywhere, such proof of 
-cognition is helpful. For everyone already regularly contancting me, 
+cognition is helpful. For everyone already regularly contacting me, 
 bringing my attention to any new persons or opportunities, is always very 
 much appreciated also.
 
@@ -231,15 +231,17 @@ scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-to
 other persons have reasonable ideas, often adding new abilities and 
 imagination.
 
-For diversity, bring an apparently unique emphasis on pragmatism, 
-possibilities, and brevity, so more is available for more people to pursue 
-their own unique interests.
-For equity, continue to unequivocally oppose and reverse any bias whenever 
-credible evidence is found, as well as support others who find, oppose, or 
-reverse, bias.
+For diversity, bring an apparently unique emphasis on possibilities, 
+pragmatism, and brevity, so more is accessible for more people everywhere 
+to pursue their own unique interests.
+For equity, continue to unequivocally oppose and reverse any bias wherever 
+credible evidence is found, to support others who find, oppose, or reverse, 
+bias, so people can obtain the means and opportunities to pursue ideas that 
+help everyone.
 For inclusiveness, press for the realization that people with different 
 interests and backgrounds are actually uniquely valuable and can in fact 
-coexist in the same world and universe.
+coexist in the same world.
+
 <!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
 '
 _t '
@@ -321,11 +323,16 @@ if false; then true; # -->
 <!--
 fi
 _t '
-scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">*) Robust containment of complete hardware and software design toolchains 
+scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">
+*) Robust containment of complete hardware and software design toolchains 
 with interprocess-communication within single filesystem directories.
+*) Compatibility layer for applications, legacy multiplatform (ie. MSW), 
+cloud, virtualization, and LiveCD/LiveUSB.
 
-*) Legacy multiplatform (ie. MSW), cloud, virtualization, and 
-LiveCD/LiveUSB compatibility.
+*) Interoperable libraries for use within hardware and software design 
+toolchains.
+*) Compatible interfaces for hardware and software designs.
+
 *) Strategic planning, technical point-of-diminishing-returns due diligence.
 *) Extensively self-taught, accustomed to efficiently exploring uncharted 
 territory.
@@ -507,7 +514,7 @@ Virtualization
 	Cryptography.
 Cryptography
 
-	Signal Processing, statistical confidence testing, psychometrics.
+	Signal processing, statistical confidence testing, psychometrics.
 Filter Design
 Infinite Impulse Response
 Statistics
@@ -806,7 +813,7 @@ scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-to
 Built by &#39;ubiquitous_bash&#39;. Hibernation Snapshot, SaveState (VM 
 features on any virtualization backend or physical computer hardware). 
 Bootable disk images from same build also will be used as development 
-computer (x64), end-user computer  (x64), cloud services  (x64) for 
+computer (x64), end-user computer (x64), cloud services (x64) for 
 thin-client, and embedded (RasPi) OS distribution.
 <!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
 '

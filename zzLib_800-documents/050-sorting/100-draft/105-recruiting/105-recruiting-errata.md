@@ -506,11 +506,12 @@ fi
 _t '
 scriptedIllustrator_markup_uk4uPhB663kVcygT0q --><!-- # --><pre style="margin-top: 0px;margin-bottom: 0px;white-space: pre-wrap;">Prefer a balanced view rather than divisive politics. Aside from distinct 
 ethical issues (including anti-harassment), which among other possible 
-criteria, are least ambiguous, least legitimately controversial, least 
-political, and least geopolitical, I have no particular interest in 
-Democrats vs Republicans, Unions vs No Unions, monetary policy, or 
-irrational voting issues. If anything, I would prefer to see all sides of 
-US politics trend towards mildness, investment, and economics.
+criteria, are least divisive, least ambiguous, least legitimately 
+controversial, least political, and least geopolitical, I have no 
+particular interest in Democrats vs Republicans, Unions vs No Unions, 
+monetary policy, or irrational voting issues. If anything, I would prefer 
+to see all sides of US politics trend towards mildness, investment, and 
+economics.
 
 My primary political concern will be, has been, and is expedient developer 
 access to use and share with the world the full benefits of self-driving 
@@ -724,6 +725,7 @@ a joke.[75]&#39;
 
 https://news.yahoo.com/danger-supreme-court-undercutting-biden-200455779.htm
 l
+https://www.govinfo.gov/content/pkg/FR-2021-11-05/pdf/2021-23643.pdf
 	&#39;On its surface this is a case about vaccine mandates, but it 
 is also a proxy war over the heart of the administrative state. If the 
 Court applies the major questions doctrine in this case, that precedent 
@@ -736,6 +738,8 @@ will block the ETS on this or an adjacent theory, the immediate casualty of
 this proxy war is the public’s health. The rule is estimated to save over 
 6,500 lives and prevent 250,00 hospitalizations over six months, although 
 these estimates were pre-Omicron.&#39;
+	&#39;prevent over 250,000 hospitalizations&#39; (used article has 
+correct quote)
 <!-- # --></pre><!-- scriptedIllustrator_markup_uk4uPhB663kVcygT0q
 '
  '_heading3' 'POLICY_PROMOTION_nonproliferation'
