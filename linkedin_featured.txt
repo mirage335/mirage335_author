@@ -1,4 +1,13 @@
 
+Tools
+<copy/paste from rendered HTML in browser>
+
+-
+
+https://raw.githubusercontent.com/mirage335/mirage335_author/main/zzLib_895-reference/from_uTST/assortment.png
+ universalTechnologySpecificationTextbook (uTST)
+From uTST , assorted images . At left, a portion of 'cognitionSplicer', software algorithms to correlate connectome and synapses from neural activity recordings. At mid-right,a portion of 'neuralBits' showing a rough PCB layout for a neural interface optimizing manufacturability, implantability, chronic stability, and maximum electrode sites.
+
 https://mirage335.github.io/mirage335_author/zzLib_895-reference/demo/TazStiff_owner.jpg
  TazStiff
 
