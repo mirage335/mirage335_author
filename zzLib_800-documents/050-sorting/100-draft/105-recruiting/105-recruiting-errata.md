@@ -1629,6 +1629,8 @@ _default() {
 	current_deleteScriptLocal="false"
 	[[ ! -e "$scriptLocal" ]] && current_deleteScriptLocal="true"
 	
+	"$scriptAbsoluteLocation" DOCUMENT > "$scriptAbsoluteLocation".out.txt
+	
 	_scribble_html_presentation "$@"
 	_scribble_markdown "$@"
 	_scribble_html "$@"
