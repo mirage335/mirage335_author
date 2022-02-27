@@ -52,7 +52,7 @@ _consolidate_documents() {
 	
 	
 	
-	mkdir -p "$scriptBundle"
+	mkdir -p "$scriptAbsoluteFolder"/_bundle
 	
 	pdfunite "$scriptAbsoluteFolder"/zzLib_800-documents/050-sorting/100-draft/100-biography/100-biography.sh.pdf \
 	"$scriptBundle"/document-biography.pdf
