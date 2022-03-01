@@ -89,9 +89,13 @@ _consolidate_documents() {
 	echo 'exit' >> "$scriptAbsoluteFolder"/index.html
 	echo "<script type="text/javascript"> document.body.innerHTML = ''; </script>" >> "$scriptAbsoluteFolder"/index.html
 	echo '<!-- DANGER: WARNING: Do NOT edit, do NOT use as shell script. Concatenated. Although self-modifying features may be present, this entire file is NOT properly self-modifying. -->' >> "$scriptAbsoluteFolder"/index.html
+	
+	
+	#"$scriptAbsoluteFolder"/zzLib_800-documents/050-sorting/100-draft/105-recruiting/105-recruiting-errata.html
 	cat "$scriptAbsoluteFolder"/zzLib_800-documents/050-sorting/100-draft/100-biography/100-biography_presentation.html \
-	"$scriptAbsoluteFolder"/zzLib_800-documents/050-sorting/100-draft/105-recruiting/105-recruiting.html \
-	"$scriptAbsoluteFolder"/zzLib_800-documents/050-sorting/100-draft/105-recruiting/105-recruiting-errata.html >> "$scriptAbsoluteFolder"/index.html
+	"$scriptAbsoluteFolder"/zzLib_800-documents/050-sorting/100-draft/105-recruiting/105-recruiting.html >> "$scriptAbsoluteFolder"/index.html
+	
+	
 	sed -i 's/..\/..\/..\/..\/..\/..\/zzLib_895-reference/zzLib_895-reference/g' "$scriptAbsoluteFolder"/index.html
 	sed -i 's/..\/..\/..\/..\/..\/zzLib_895-reference/zzLib_895-reference/g' "$scriptAbsoluteFolder"/index.html
 	sed -i 's/..\/..\/..\/..\/zzLib_895-reference/zzLib_895-reference/g' "$scriptAbsoluteFolder"/index.html
