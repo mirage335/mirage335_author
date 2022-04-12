@@ -277,6 +277,11 @@ _t 'Mar2016 - Present
 soaringindustries.space
 Self-owned technology business. Especially offers expertise in deploying own open-source technology, bringing emerging advantages in scalability and profitability, while field testing to reduce distractions from production and design.
 PatchRap and CoreAutoSSH are notable successes of Soaring Industries LLC.'
+_picture $(realpath -L -s --relative-to "$scriptAbsoluteFolder" "$zzLib_895_reference"/emblems/logo_distLLC.png) "10%"
+_heading3 'Soaring Distributions LLC - Manager'
+_t 'Apr2022 - Present
+https://soaringdistributions.github.io/site_distLLC/
+Distribution of some (may be mostly if not entirely software, mostly if not entirely FLOSS) products.'
 _ _heading3 'Director - Self'
 _ _t 'Aug2010 - Present
 Self-taught and self-directed, particularly keen to develop open-source fabrication and communication technologies for public benefit.'
