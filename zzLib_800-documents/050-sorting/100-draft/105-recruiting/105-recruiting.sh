@@ -169,6 +169,7 @@ _heading2 'Communication'
 _t 'IRC WebChat: https://kiwiirc.com/nextclient/irc.libera.chat/##mirage335
 Discord: https://discord.gg/Tm9Am8Yt
 Patreon: https://www.patreon.com/mirage335
+Sponsor GitHub: https://github.com/sponsors/mirage335
 YouTube: https://www.youtube.com/channel/UC-hYbYGjhQdoF18U5VRUH9g
 Github: https://github.com/mirage335
 Email: spamfreemirage335 &#39; a T&#39; gmail &#39;dot &#39; com
@@ -198,7 +199,6 @@ Discovering such discouragement is difficult enough, tolerating such discouragem
 
 
 _t '
-
 
 '
 _page ' ' ###
