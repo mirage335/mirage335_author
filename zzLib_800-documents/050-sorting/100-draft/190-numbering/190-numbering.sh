@@ -291,7 +291,7 @@ _default_procedure() {
 	rm -f "$scriptLib"/"$1".pdf > /dev/null 2>&1
 }
 _default() {
-	! type -p qalculate > /dev/null 2>&1 && exit 1
+	! type -p qalculate > /dev/null 2>&1 && ! type -p qalc > /dev/null 2>&1
 	_solve() {
 		_qalculate_solve "$@"
 	}
