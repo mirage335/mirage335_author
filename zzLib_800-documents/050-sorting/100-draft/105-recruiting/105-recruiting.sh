@@ -253,6 +253,10 @@ Represented both Makersmiths and HacDC at the "Nation of Makers" gathering.
 
 
 Please support your local hackerspace!'
+_heading3 'Creative 3D Technologies - Senior Hardware Designer'
+_t 'Aug2022 - Present
+https://creative3dtechnologies.com/
+Helping a great company improve on their product (awesome new 3D printers). Emphasis on both optimizing for customer needs and bringing robust 3D printing to the world through design readiness for high volume production.'
 _heading3 'ZXYPro, 3D Connected Printing - Software Technologist (formerly Chief Technology Officer)'
 _t 'May2016 - Present
 https://zxypro.com/
